@@ -67,7 +67,7 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Marko Petrović"
+            "name": "Dominik Vincetić"
           },
           "reviewRating": {
             "@type": "Rating",
@@ -79,7 +79,7 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Ivana Horvat"
+            "name": "Manuela Kasun"
           },
           "reviewRating": {
             "@type": "Rating",
@@ -91,7 +91,7 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Mario Stanić"
+            "name": "Franjo Tomčić"
           },
           "reviewRating": {
             "@type": "Rating",
@@ -103,7 +103,7 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Marta Novak"
+            "name": "Ena Vlašić"
           },
           "reviewRating": {
             "@type": "Rating",
@@ -115,7 +115,7 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Ivan Horvat"
+            "name": "Frane Brož"
           },
           "reviewRating": {
             "@type": "Rating",
@@ -127,7 +127,7 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Petra Novak"
+            "name": "Antonela Pavletić"
           },
           "reviewRating": {
             "@type": "Rating",
@@ -139,7 +139,7 @@
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Luka Marinović"
+            "name": "Karlo Čupić"
           },
           "reviewRating": {
             "@type": "Rating",

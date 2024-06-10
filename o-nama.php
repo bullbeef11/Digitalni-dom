@@ -903,252 +903,252 @@
 
     <!-- TESTIMONIALS-2
 			============================================= -->
-    <section id="reviews-2" class="pt-90 reviews-section division">
-      <div class="container">
-        <!-- SECTION TITLE -->
-        <div class="row justify-content-center">
-          <div class="col-md-10 col-lg-9">
-            <div class="section-title mb-70">
-              <!-- Title -->
-              <h2 class="h2-xl">Naši zadovoljni klijenti</h2>
+      <section id="reviews-2" class="pt-90 reviews-section division">
+        <div class="container"> 
+          <!-- SECTION TITLE -->
+          <div class="row justify-content-center">
+            <div class="col-md-10 col-lg-9">
+              <div class="section-title mb-70">
+                <!-- Title -->
+                <h2 class="h2-xl">Naši zadovoljni klijenti</h2>
 
-              <!-- Text -->
-              <p class="p-xl">
-                Pročitajte što naši klijenti imaju za reći o nama.
-              </p>
+                <!-- Text -->
+                <p class="p-xl">
+                  Pročitajte što naši klijenti imaju za reći o nama.
+                </p>
+              </div>
             </div>
           </div>
-        </div>
 
-        <!-- TESTIMONIALS CAROUSEL -->
-        <div class="row">
-          <div class="col">
-            <div class="owl-carousel owl-theme reviews-carousel">
-              <!-- TESTIMONIAL #1 -->
-              <div class="review-2">
-                <!-- Rating -->
-                <div class="review-rating ico-15 color--yellow">
-                  <span class="flaticon-star"></span>
-                  <span class="flaticon-star"></span>
-                  <span class="flaticon-star"></span>
-                  <span class="flaticon-star"></span>
-                  <span class="flaticon-star"></span>
-                </div>
-
-                <!-- Text -->
-                <div class="review-2-txt">
-                  <h5>Revolucionirali našu online prisutnost</h5>
+          <!-- TESTIMONIALS CAROUSEL -->
+          <div class="row">
+            <div class="col">
+              <div class="owl-carousel owl-theme reviews-carousel">
+                <!-- TESTIMONIAL #1 -->
+                <div class="review-2">
+                  <!-- Rating -->
+                  <div class="review-rating ico-15 color--yellow">
+                    <span class="flaticon-star"></span>
+                    <span class="flaticon-star"></span>
+                    <span class="flaticon-star"></span>
+                    <span class="flaticon-star"></span>
+                    <span class="flaticon-star"></span>
+                  </div>
 
                   <!-- Text -->
-                  <p>
-                    &quot;Naša suradnja s Digitalnim Domom potpuno je
-                    transformirala našu online prisutnost, rezultirajući
-                    značajnim povećanjem prometa i prodaje.&quot;
-                  </p>
-                </div>
+                  <div class="review-2-txt">
+                    <h5>Revolucionirali našu online prisutnost</h5>
 
-                <!-- Author -->
-                <div class="review-author">
-                  <h6>Marko Petrović</h6>
-                  <p class="p-sm">Vlasnik građevinskog obrta</p>
-                </div>
-              </div>
-              <!-- END TESTIMONIAL #1 -->
+                    <!-- Text -->
+                    <p>
+                      &quot;Naša suradnja s Digitalnim Domom potpuno je
+                      transformirala našu online prisutnost, rezultirajući
+                      značajnim povećanjem prometa i prodaje.&quot;
+                    </p>
+                  </div>
 
-              <!-- TESTIMONIAL #2 -->
-              <div class="review-2">
-                <!-- Rating -->
-                <div class="review-rating ico-15 color--yellow">
-                  <span class="flaticon-star"></span>
-                  <span class="flaticon-star"></span>
-                  <span class="flaticon-star"></span>
-                  <span class="flaticon-star"></span>
-                  <span class="flaticon-star"></span>
+                  <!-- Author -->
+                  <div class="review-author">
+                    <h6>Dominik Vincetić</h6>
+                    <p class="p-sm">Vlasnik građevinskog obrta</p>
+                  </div>
                 </div>
+                <!-- END TESTIMONIAL #1 -->
 
-                <!-- Text -->
-                <div class="review-2-txt">
-                  <h5>Personalizirani pristup koji isporučuje</h5>
+                <!-- TESTIMONIAL #2 -->
+                <div class="review-2">
+                  <!-- Rating -->
+                  <div class="review-rating ico-15 color--yellow">
+                    <span class="flaticon-star"></span>
+                    <span class="flaticon-star"></span>
+                    <span class="flaticon-star"></span>
+                    <span class="flaticon-star"></span>
+                    <span class="flaticon-star"></span>
+                  </div>
 
                   <!-- Text -->
-                  <p>
-                    &quot;Digitalni Dom pristupio je našem projektu s
-                    individualiziranom strategijom koja je odgovarala našim
-                    specifičnim potrebama, rezultirajući povećanjem
-                    prodaje&quot;
-                  </p>
-                </div>
+                  <div class="review-2-txt">
+                    <h5>Personalizirani pristup koji isporučuje</h5>
 
-                <!-- Author -->
-                <div class="review-author">
-                  <h6>Ivana Horvat</h6>
-                  <p class="p-sm">Vlasnica restorana</p>
-                </div>
-              </div>
-              <!-- END TESTIMONIAL #2 -->
+                    <!-- Text -->
+                    <p>
+                      &quot;Digitalni Dom pristupio je našem projektu s
+                      individualiziranom strategijom koja je odgovarala našim
+                      specifičnim potrebama, rezultirajući povećanjem
+                      prodaje&quot;
+                    </p>
+                  </div>
 
-              <!-- TESTIMONIAL #3 -->
-              <div class="review-2">
-                <!-- Rating -->
-                <div class="review-rating ico-15 color--yellow">
-                  <span class="flaticon-star"></span>
-                  <span class="flaticon-star"></span>
-                  <span class="flaticon-star"></span>
-                  <span class="flaticon-star"></span>
-                  <span class="flaticon-star"></span>
+                  <!-- Author -->
+                  <div class="review-author">
+                    <h6>Manuela Kasun</h6>
+                    <p class="p-sm">Vlasnica restorana</p>
+                  </div>
                 </div>
+                <!-- END TESTIMONIAL #2 -->
 
-                <!-- Text -->
-                <div class="review-2-txt">
-                  <h5>Stručnost koja donosi rezultate</h5>
+                <!-- TESTIMONIAL #3 -->
+                <div class="review-2">
+                  <!-- Rating -->
+                  <div class="review-rating ico-15 color--yellow">
+                    <span class="flaticon-star"></span>
+                    <span class="flaticon-star"></span>
+                    <span class="flaticon-star"></span>
+                    <span class="flaticon-star"></span>
+                    <span class="flaticon-star"></span>
+                  </div>
 
                   <!-- Text -->
-                  <p>
-                    &quot;Zahvaljujući stručnosti Digitalnog Doma, uspjeli smo
-                    postići vidljivost našeg brenda na globalnoj razini,
-                    dosežući nove kupce i povećavajući prihode. &quot;
-                  </p>
-                </div>
+                  <div class="review-2-txt">
+                    <h5>Stručnost koja donosi rezultate</h5>
 
-                <!-- Author -->
-                <div class="review-author">
-                  <h6>Mario Stanić</h6>
-                  <p class="p-sm">Direktor marketinga IT firme</p>
-                </div>
-              </div>
-              <!-- END TESTIMONIAL #3 -->
+                    <!-- Text -->
+                    <p>
+                      &quot;Zahvaljujući stručnosti Digitalnog Doma, uspjeli smo
+                      postići vidljivost našeg brenda na globalnoj razini,
+                      dosežući nove kupce i povećavajući prihode. &quot;
+                    </p>
+                  </div>
 
-              <!-- TESTIMONIAL #4 -->
-              <div class="review-2">
-                <!-- Rating -->
-                <div class="review-rating ico-15 color--yellow">
-                  <span class="flaticon-star"></span>
-                  <span class="flaticon-star"></span>
-                  <span class="flaticon-star"></span>
-                  <span class="flaticon-star"></span>
-                  <span class="flaticon-star"></span>
+                  <!-- Author -->
+                  <div class="review-author">
+                    <h6>Franjo Tomčić</h6>
+                    <p class="p-sm">Direktor marketinga IT firme</p>
+                  </div>
                 </div>
+                <!-- END TESTIMONIAL #3 -->
 
-                <!-- Text -->
-                <div class="review-2-txt">
-                  <h5>Odgovorna podrška i vođenje</h5>
+                <!-- TESTIMONIAL #4 -->
+                <div class="review-2">
+                  <!-- Rating -->
+                  <div class="review-rating ico-15 color--yellow">
+                    <span class="flaticon-star"></span>
+                    <span class="flaticon-star"></span>
+                    <span class="flaticon-star"></span>
+                    <span class="flaticon-star"></span>
+                    <span class="flaticon-star"></span>
+                  </div>
 
                   <!-- Text -->
-                  <p>
-                    &quot;Digitalni Dom pružio nam je iznimnu podršku tijekom
-                    cijelog procesa, nudeći nam savjete i smjernice koji su nam
-                    pomogli da postignemo željene rezultate.&quot;
-                  </p>
-                </div>
+                  <div class="review-2-txt">
+                    <h5>Odgovorna podrška i vođenje</h5>
 
-                <!-- Author -->
-                <div class="review-author">
-                  <h6>Marta Novak</h6>
-                  <p class="p-sm">Voditeljica marketinga turističke agencije</p>
-                </div>
-              </div>
-              <!-- END TESTIMONIAL #4 -->
+                    <!-- Text -->
+                    <p>
+                      &quot;Digitalni Dom pružio nam je iznimnu podršku tijekom
+                      cijelog procesa, nudeći nam savjete i smjernice koji su nam
+                      pomogli da postignemo željene rezultate.&quot;
+                    </p>
+                  </div>
 
-              <!-- TESTIMONIAL #5 -->
-              <div class="review-2">
-                <!-- Rating -->
-                <div class="review-rating ico-15 color--yellow">
-                  <span class="flaticon-star"></span>
-                  <span class="flaticon-star"></span>
-                  <span class="flaticon-star"></span>
-                  <span class="flaticon-star"></span>
-                  <span class="flaticon-star"></span>
+                  <!-- Author -->
+                  <div class="review-author">
+                    <h6>Ena Vlašić</h6>
+                    <p class="p-sm">Voditeljica marketinga turističke agencije</p>
+                  </div>
                 </div>
+                <!-- END TESTIMONIAL #4 -->
 
-                <!-- Text -->
-                <div class="review-2-txt">
-                  <h5>Postigli Smo Izvanredne Rezultate</h5>
+                <!-- TESTIMONIAL #5 -->
+                <div class="review-2">
+                  <!-- Rating -->
+                  <div class="review-rating ico-15 color--yellow">
+                    <span class="flaticon-star"></span>
+                    <span class="flaticon-star"></span>
+                    <span class="flaticon-star"></span>
+                    <span class="flaticon-star"></span>
+                    <span class="flaticon-star"></span>
+                  </div>
 
                   <!-- Text -->
-                  <p>
-                    &quot;Zahvaljujući Digitalnom Domu, naša kampanja postigla
-                    je izvanredne rezultate, vidljivo povećavajući našu
-                    prisutnost na tržištu i generirajući značajne prihode.&quot;
-                  </p>
-                </div>
+                  <div class="review-2-txt">
+                    <h5>Postigli Smo Izvanredne Rezultate</h5>
 
-                <!-- Author -->
-                <div class="review-author">
-                  <h6>Ivan Horvat</h6>
-                  <p class="p-sm">Vlasnik obrta za hortikulturu</p>
-                </div>
-              </div>
-              <!-- END TESTIMONIAL #5 -->
+                    <!-- Text -->
+                    <p>
+                      &quot;Zahvaljujući Digitalnom Domu, naša kampanja postigla
+                      je izvanredne rezultate, vidljivo povećavajući našu
+                      prisutnost na tržištu i generirajući značajne prihode.&quot;
+                    </p>
+                  </div>
 
-              <!-- TESTIMONIAL #6 -->
-              <div class="review-2">
-                <!-- Rating -->
-                <div class="review-rating ico-15 color--yellow">
-                  <span class="flaticon-star"></span>
-                  <span class="flaticon-star"></span>
-                  <span class="flaticon-star"></span>
-                  <span class="flaticon-star"></span>
-                  <span class="flaticon-star"></span>
+                  <!-- Author -->
+                  <div class="review-author">
+                    <h6>Frane Brož</h6>
+                    <p class="p-sm">Vlasnik obrta za hortikulturu</p>
+                  </div>
                 </div>
+                <!-- END TESTIMONIAL #5 -->
 
-                <!-- Text -->
-                <div class="review-2-txt">
-                  <h5>Profesionalna i Efikasna Suradnja</h5>
+                <!-- TESTIMONIAL #6 -->
+                <div class="review-2">
+                  <!-- Rating -->
+                  <div class="review-rating ico-15 color--yellow">
+                    <span class="flaticon-star"></span>
+                    <span class="flaticon-star"></span>
+                    <span class="flaticon-star"></span>
+                    <span class="flaticon-star"></span>
+                    <span class="flaticon-star"></span>
+                  </div>
 
                   <!-- Text -->
-                  <p>
-                    &quot;Suradnja s Digitalnim Domom bila je iznimno
-                    profesionalna i efikasna, pružajući nam potrebnu podršku i
-                    vođenje za uspješno vođenje marketinških kampanja&quot;
-                  </p>
-                </div>
+                  <div class="review-2-txt">
+                    <h5>Profesionalna i Efikasna Suradnja</h5>
 
-                <!-- Author -->
-                <div class="review-author">
-                  <h6>Petra Novak</h6>
-                  <p class="p-sm">Voditeljica marketinga konzulting firme</p>
-                </div>
-              </div>
-              <!-- END TESTIMONIAL #6 -->
+                    <!-- Text -->
+                    <p>
+                      &quot;Suradnja s Digitalnim Domom bila je iznimno
+                      profesionalna i efikasna, pružajući nam potrebnu podršku i
+                      vođenje za uspješno vođenje marketinških kampanja&quot;
+                    </p>
+                  </div>
 
-              <!-- TESTIMONIAL #7 -->
-              <div class="review-2">
-                <!-- Rating -->
-                <div class="review-rating ico-15 color--yellow">
-                  <span class="flaticon-star"></span>
-                  <span class="flaticon-star"></span>
-                  <span class="flaticon-star"></span>
-                  <span class="flaticon-star"></span>
-                  <span class="flaticon-star"></span>
+                  <!-- Author -->
+                  <div class="review-author">
+                    <h6>Antonela Pavletić</h6>
+                    <p class="p-sm">Voditeljica marketinga konzulting firme</p>
+                  </div>
                 </div>
+                <!-- END TESTIMONIAL #6 -->
 
-                <!-- Text -->
-                <div class="review-2-txt">
-                  <h5>Pouzdan Partner za Digitalni Rast</h5>
+                <!-- TESTIMONIAL #7 -->
+                <div class="review-2">
+                  <!-- Rating -->
+                  <div class="review-rating ico-15 color--yellow">
+                    <span class="flaticon-star"></span>
+                    <span class="flaticon-star"></span>
+                    <span class="flaticon-star"></span>
+                    <span class="flaticon-star"></span>
+                    <span class="flaticon-star"></span>
+                  </div>
 
                   <!-- Text -->
-                  <p>
-                    &quot;Digitalni Dom pokazao se kao pouzdan partner za naš
-                    digitalni rast, pružajući nam stručnost i resurse potrebne
-                    za uspješno vođenje online strategija.&quot;
-                  </p>
-                </div>
+                  <div class="review-2-txt">
+                    <h5>Pouzdan Partner za Digitalni Rast</h5>
 
-                <!-- Author -->
-                <div class="review-author">
-                  <h6>Luka Marinović</h6>
-                  <p class="p-sm">Direktor marketinga e-trgovine</p>
+                    <!-- Text -->
+                    <p>
+                      &quot;Digitalni Dom pokazao se kao pouzdan partner za naš
+                      digitalni rast, pružajući nam stručnost i resurse potrebne
+                      za uspješno vođenje online strategija.&quot;
+                    </p>
+                  </div>
+
+                  <!-- Author -->
+                  <div class="review-author">
+                    <h6>Karlo Čupić</h6>
+                    <p class="p-sm">Direktor marketinga e-trgovine</p>
+                  </div>
                 </div>
+                <!-- END TESTIMONIAL #7 -->
               </div>
-              <!-- END TESTIMONIAL #7 -->
             </div>
           </div>
+          <!-- END TESTIMONIALS CAROUSEL -->
         </div>
-        <!-- END TESTIMONIALS CAROUSEL -->
-      </div>
-      <!-- End container -->
-    </section>
-    <!-- END TESTIMONIALS-2 -->
+        <!-- End container -->
+      </section>
+      <!-- END TESTIMONIALS-2 -->
 
     <!-- BANNER-1
 			============================================= -->
