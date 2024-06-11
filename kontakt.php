@@ -69,7 +69,7 @@
 
                 <div class="col-md-12">
                   <input
-                    type="text"
+                    type="email"
                     name="email"
                     class="form-control email"
                     placeholder="Email*"
@@ -78,7 +78,7 @@
 
                 <div class="col-md-12">
                   <input
-                    type="text"
+                    type="number"
                     name="phone"
                     class="form-control website"
                     required
@@ -100,6 +100,7 @@
                   <button
                     type="submit"
                     class="btn btn--theme hover--theme submit"
+                    onclick="sendMessage()"
                   >
                     Pošalji
                   </button>
@@ -223,6 +224,64 @@
       </div>
       <!-- End container -->
     </section>
+
+    <script>
+
+  function validateForm() {
+    var name = document.querySelector('input[name="name"]').value;
+    var surname = document.querySelector('input[name="surname"]').value;
+    var email = document.querySelector('input[name="email"]').value;
+    var phone = document.querySelector('input[name="phone"]').value;
+
+    return name && surname && email && phone;
+  }
+
+  function toggleButton() {
+    var button = document.querySelector('.submit');
+    button.disabled = !validateForm();
+  }
+
+  document.querySelectorAll('input, textarea').forEach(function(element) {
+    element.addEventListener('input', toggleButton);
+  });
+
+  function sendMessage() {
+    if (!validateForm()) return;
+
+    var name = document.querySelector('input[name="name"]').value;
+    var surname = document.querySelector('input[name="surname"]').value;
+    var email = document.querySelector('input[name="email"]').value;
+    var phone = document.querySelector('input[name="phone"]').value;
+    var message = document.querySelector('textarea[name="message"]').value;
+
+    var xhr = new XMLHttpRequest();
+    xhr.open("POST", "https://digitalnidom-server.up.railway.app/kontakt", true);
+    xhr.setRequestHeader("Content-Type", "application/json");
+
+    xhr.onreadystatechange = function () {
+      if (xhr.readyState === XMLHttpRequest.DONE && xhr.status === 200) {
+        alert("Message sent successfully!");
+      }
+    };
+
+    var data = {
+      checkbox: true,
+      email: email,
+      ime: name,
+      prezime: surname,
+      telefon: phone,
+      textarea: message,
+      web: "digitalnidom.com",
+    };
+    
+
+    console.log(JSON.stringify(data))
+    xhr.send(JSON.stringify(data));
+  }
+
+  // Initial call to set button state
+  toggleButton();
+</script>
 
 <?php
   include ("footer.php")
