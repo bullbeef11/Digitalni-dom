@@ -474,15 +474,34 @@
       <!-- End container -->
     </section>
 
-    <script>
+    <style>
+  .invalid {
+    border-color: red;
+  }
+</style>
 
+
+<script>
   function validateForm() {
     var name = document.querySelector('input[name="name"]').value;
     var surname = document.querySelector('input[name="surname"]').value;
     var email = document.querySelector('input[name="email"]').value;
     var phone = document.querySelector('input[name="phone"]').value;
 
-    return name && surname && email && phone;
+    return name && surname && validateEmail(email) && phone;
+  }
+
+  function validateEmail(email) {
+    // Regular expression for basic email validation
+    var re = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    var isValid = re.test(email);
+    var emailInput = document.querySelector('input[name="email"]');
+    if (!isValid) {
+      emailInput.classList.add('invalid');
+    } else {
+      emailInput.classList.remove('invalid');
+    }
+    return isValid;
   }
 
   function toggleButton() {
@@ -491,7 +510,12 @@
   }
 
   document.querySelectorAll('input, textarea').forEach(function(element) {
-    element.addEventListener('input', toggleButton);
+    element.addEventListener('input', function() {
+      toggleButton();
+      if (element.name === 'email') {
+        validateEmail(element.value);
+      }
+    });
   });
 
   function sendMessage() {
@@ -523,14 +547,14 @@
       web: "digitalnidom.com",
     };
     
-
-    console.log(JSON.stringify(data))
     xhr.send(JSON.stringify(data));
   }
 
   // Initial call to set button state
   toggleButton();
 </script>
+
+
 
 <?php
   include ("footer.php")
