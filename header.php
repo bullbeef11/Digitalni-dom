@@ -228,7 +228,7 @@
     <link href="css/animate.css" rel="stylesheet" />
 
     <!-- TEMPLATE CSS -->
-    <link href="css/default.css" rel="stylesheet" />
+    <link href="css/default.css?v=1.01" rel="stylesheet" />
     <!-- <link href="css/blue-theme.css" rel="stylesheet"> -->
     <!-- <link href="css/darkblue-theme.css" rel="stylesheet" /> -->
     <!-- <link href="css/indigo-theme.css" rel="stylesheet"> -->

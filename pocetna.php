@@ -618,7 +618,7 @@
             <div class="col-md-7 order-last order-md-2">
               <div class="fbox-4-wrapper">
                 <div class="row">
-                  <div class="col-md-6">
+                  <div class="col-md-6 mb-4 mb-md-0">
                     <!-- FEATURE BOX #1 -->
                     <div
                       id="fb-4-1"
@@ -653,7 +653,7 @@
                       </p>
                     </div>               
                   </div>
-                  <div class="col-md-6">
+                  <div class="col-md-6 mb-4 mb-md-0">
                     <!-- FEATURE BOX #2 -->
                     <div
                       id="fb-4-2"
@@ -689,8 +689,8 @@
                     </div>
                   </div>
                 </div>
-                <div class="row mt-4">
-                  <div class="col-md-6">
+                <div class="row mb-0 mt-md-4">
+                  <div class="col-md-6 mb-4 mb-md-0">
                     <!-- FEATURE BOX #3 -->
                     <div
                       id="fb-4-3"
@@ -727,7 +727,7 @@
 
                   </div>
 
-                  <div class="col-md-6">
+                  <div class="col-md-6 mb-4 mb-md-0">
                     <!-- FEATURE BOX #4 -->
                     <div
                       id="fb-4-4"
@@ -879,7 +879,7 @@
 
               <!-- INTEGRATION TOOL #5 -->
               <div class="col">
-                <a>
+                <div>
                   <div
                     class="int_tool-1 r-12 wow animate__animated animate__fadeInUp"
                   >
@@ -900,13 +900,13 @@
                       <p>E-mail kampanje</p>
                     </div>
                   </div>
-                </a>
+                </div>
               </div>
               <!-- END INTEGRATION TOOL #5 -->
 
               <!-- INTEGRATION TOOL #7 -->
               <div class="col">
-                <a>
+                <div>
                   <div
                     class="int_tool-1 r-12 wow animate__animated animate__fadeInUp"
                   >
@@ -927,13 +927,13 @@
                       <p>Google alat za analitiku</p>
                     </div>
                   </div>
-                </a>
+                </div>
               </div>
               <!-- END INTEGRATION TOOL #7 -->
 
               <!-- INTEGRATION TOOL #8 -->
               <div class="col">
-                <a>
+                <div>
                   <div
                     class="int_tool-1 r-12 wow animate__animated animate__fadeInUp"
                   >
@@ -954,7 +954,7 @@
                       <p>Organizacijski Softver</p>
                     </div>
                   </div>
-                </a>
+                </div>
               </div>
               <!-- END INTEGRATION TOOL #8 -->
             </div>
