@@ -19,10 +19,10 @@
     <meta name="description" content="Pružamo usluge digitalnog marketinga, uključujući Google oglase, SEO optimizaciju, izradu web stranica i oglašavanje na društvenim mrežama.">
     <meta name="keywords" content="digitalni marketing, google oglasi, SEO optimizacija, izrada web stranica, online oglašavanje, društvene mreže, google oglašavanje, facebook oglašavanje, instagram oglašavanje">
     <meta name="author" content="Digitalni dom">
-    <link rel="canonical" href="https://www.digitalnidom.com/">
+    <link rel="canonical" href="https://www.digitalnidom.com">
     <meta property="og:title" content="Digitalni Marketing | SEO Optimizacija | Izrada Web Stranica">
     <meta property="og:description" content="Pružamo usluge digitalnog marketinga, uključujući Google oglase, SEO optimizaciju, izradu web stranica i oglašavanje na društvenim mrežama.">
-    <meta property="og:url" content="https://digitalnidom.com/">
+    <meta property="og:url" content="https://digitalnidom.com">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://digitalnidom.com/assets/logo.svg">
     <meta property="og:locale" content="hr_HR">
@@ -36,7 +36,7 @@
       "@context": "https://schema.org",
       "@type": "Organization",
       "name": "Digitalni dom",
-      "url": "https://www.digitalnidom.com/",
+      "url": "https://www.digitalnidom.com",
       "logo": "https://digitalnidom.com/assets/logo.svg",
       "contactPoint": {
         "@type": "ContactPoint",
@@ -133,7 +133,7 @@
             "@type": "Rating",
             "ratingValue": "5"
           },
-          "reviewBody": "ProfeSuradnja s Digitalnim Domom bila je iznimno profesionalna i efikasna, pružajući nam potrebnu podršku i vođenje za uspješno vođenje marketinških kampanja"
+          "reviewBody": "Profesionalna suradnja s Digitalnim Domom bila je iznimno profesionalna i efikasna, pružajući nam potrebnu podršku i vođenje za uspješno vođenje marketinških kampanja."
         },
         {
           "@type": "Review",
@@ -146,7 +146,7 @@
             "ratingValue": "5"
           },
           "reviewBody": "Digitalni Dom pokazao se kao pouzdan partner za naš digitalni rast, pružajući nam stručnost i resurse potrebne za uspješno vođenje online strategija."
-        },
+        }
       ],
       "service": [
         {

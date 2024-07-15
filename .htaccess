@@ -4,3 +4,7 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^([^\.]+)$ $1.php [NC,L]
 ErrorDocument 404 /404.php
 ErrorDocument 403 /404.php
+
+RewriteCond %{HTTP_HOST} ^(www\.)?digitalnidom\.com$ [NC]
+RewriteCond %{REQUEST_URI} ^/$
+RewriteRule ^$ /pocetna [L,R=301]   
