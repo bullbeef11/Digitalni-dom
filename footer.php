@@ -14,10 +14,10 @@
                 <!-- Links -->
                 <ul class="foo-links clearfix">
                   <li>
-                    <p><a href="o-nama">O nama</a></p>
+                    <p><a href="/o-nama">O nama</a></p>
                   </li>
                   <li>
-                    <p><a href="kontakt">Kontaktirajte nas</a></p>
+                    <p><a href="/kontakt">Kontaktirajte nas</a></p>
                   </li>
                 </ul>
               </div>
@@ -34,16 +34,16 @@
                 <!-- Links -->
                 <ul class="foo-links clearfix">
                   <li>
-                    <p><a href="google-oglasavanje">Google oglašavanje</a></p>
+                    <p><a href="/google-oglasavanje">Google oglašavanje</a></p>
                   </li>
                   <li>
-                    <p><a href="izrada-web-stranica">Izrada web stranica</a></p>
+                    <p><a href="/izrada-web-stranica">Izrada web stranica</a></p>
                   </li>
                   <li>
-                    <p><a href="seo-optimizacija">SEO optimizacija</a></p>
+                    <p><a href="/seo-optimizacija">SEO optimizacija</a></p>
                   </li>
                   <li>
-                    <p><a href="oglasavanje-na-drustvenim-mrezama">Oglašavanje na društvenim mrežama</a></p>
+                    <p><a href="/oglasavanje-na-drustvenim-mrezama">Oglašavanje na društvenim mrežama</a></p>
                   </li>
                 </ul>
               </div>
@@ -62,13 +62,13 @@
                 <!-- Links -->
                 <ul class="foo-links clearfix">
                   <li>
-                    <p><a href="politika-privatnosti">Politika privatnosti</a></p>
+                    <p><a href="/politika-privatnosti">Politika privatnosti</a></p>
                   </li>
                   <li>
-                    <p><a href="opci-uvjeti">Opći uvjeti i odredbe</a></p>
+                    <p><a href="/opci-uvjeti">Opći uvjeti i odredbe</a></p>
                   </li>
                   <li>
-                    <p><a href="izjava-o-kolacicima">Izjava o kolačićima</a></p>
+                    <p><a href="/izjava-o-kolacicima">Izjava o kolačićima</a></p>
                   </li>
                 </ul> 
               </div>
@@ -117,26 +117,26 @@
 
     <!-- EXTERNAL SCRIPTS
 		============================================= -->
-    <script src="js/jquery-3.7.1.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/modernizr.custom.js"></script>
-    <script src="js/jquery.easing.min.js"></script>
-    <script src="js/jquery.appear.js"></script>
-    <script src="js/menu.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/imagesloaded.pkgd.min.js"></script>
-    <script src="js/isotope.pkgd.min.js"></script>
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <script src="js/request-form.js"></script>
-    <script src="js/jquery.validate.min.js"></script>
-    <script src="js/jquery.ajaxchimp.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/lunar.js"></script>
-    <script src="js/wow.js"></script>
-    <script src="js/cookies-message.js"></script>
+    <script src="/js/jquery-3.7.1.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr.custom.js"></script>
+    <script src="/js/jquery.easing.min.js"></script>
+    <script src="/js/jquery.appear.js"></script>
+    <script src="/js/menu.js"></script>
+    <script src="/js/owl.carousel.min.js"></script>
+    <script src="/js/imagesloaded.pkgd.min.js"></script>
+    <script src="/js/isotope.pkgd.min.js"></script>
+    <script src="/js/jquery.magnific-popup.min.js"></script>
+    <script src="/js/request-form.js"></script>
+    <script src="/js/jquery.validate.min.js"></script>
+    <script src="/js/jquery.ajaxchimp.min.js"></script>
+    <script src="/js/popper.min.js"></script>
+    <script src="/js/lunar.js"></script>
+    <script src="/js/wow.js"></script>
+    <script src="/js/cookies-message.js"></script>
 
     <!-- Custom Script -->
-    <script src="js/custom.js"></script>
+    <script src="/js/custom.js"></script>
 
     <!-- COOKIES MESSAGE 
         <script>

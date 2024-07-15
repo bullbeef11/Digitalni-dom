@@ -175,25 +175,25 @@
 
 
     <!-- FAVICON AND TOUCH ICONS -->
-    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
-    <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
     <link
       rel="apple-touch-icon"
       sizes="152x152"
-      href="images/apple-touch-icon-152x152.png"
+      href="/images/apple-touch-icon-152x152.png"
     />
     <link
       rel="apple-touch-icon"
       sizes="120x120"
-      href="images/apple-touch-icon-120x120.png"
+      href="/images/apple-touch-icon-120x120.png"
     />
     <link
       rel="apple-touch-icon"
       sizes="76x76"
-      href="images/apple-touch-icon-76x76.png"
+      href="/images/apple-touch-icon-76x76.png"
     />
-    <link rel="apple-touch-icon" href="images/apple-touch-icon.png" />
-    <link rel="icon" href="images/apple-touch-icon.png" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
+    <link rel="icon" href="/images/apple-touch-icon.png" type="image/x-icon" />
 
     <!-- GOOGLE FONTS -->
     <link
@@ -206,39 +206,39 @@
     />
 
     <!-- BOOTSTRAP CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <link href="/css/bootstrap.min.css" rel="stylesheet" />
 
     <!-- FONT ICONS -->
-    <link href="css/flaticon.css" rel="stylesheet" />
+    <link href="/css/flaticon.css" rel="stylesheet" />
 
     <!-- PLUGINS STYLESHEET -->
-    <link href="css/menu.css" rel="stylesheet" />
+    <link href="/css/menu.css" rel="stylesheet" />
     <link
       id="effect"
-      href="css/dropdown-effects/fade-down.css"
+      href="/css/dropdown-effects/fade-down.css"
       media="all"
       rel="stylesheet"
     />
-    <link href="css/magnific-popup.css" rel="stylesheet" />
-    <link href="css/owl.carousel.min.css" rel="stylesheet" />
-    <link href="css/owl.theme.default.min.css" rel="stylesheet" />
-    <link href="css/lunar.css" rel="stylesheet" />
+    <link href="/css/magnific-popup.css" rel="stylesheet" />
+    <link href="/css/owl.carousel.min.css" rel="stylesheet" />
+    <link href="/css/owl.theme.default.min.css" rel="stylesheet" />
+    <link href="/css/lunar.css" rel="stylesheet" />
 
     <!-- ON SCROLL ANIMATION -->
-    <link href="css/animate.css" rel="stylesheet" />
+    <link href="/css/animate.css" rel="stylesheet" />
 
     <!-- TEMPLATE CSS -->
-    <link href="css/default.css?v=1.01" rel="stylesheet" />
-    <!-- <link href="css/blue-theme.css" rel="stylesheet"> -->
-    <!-- <link href="css/darkblue-theme.css" rel="stylesheet" /> -->
-    <!-- <link href="css/indigo-theme.css" rel="stylesheet"> -->
-    <!-- <link href="css/pink-theme.css" rel="stylesheet"> -->
-    <!-- <link href="css/purple-theme.css" rel="stylesheet"> -->
-    <!-- <link href="css/skyblue-theme.css" rel="stylesheet"> -->
-    <!-- <link href="css/violet-theme.css" rel="stylesheet"> -->
+    <link href="/css/default.css?v=1.01" rel="stylesheet" />
+    <!-- <link href="/css/blue-theme.css" rel="stylesheet"> -->
+    <!-- <link href="/css/darkblue-theme.css" rel="stylesheet" /> -->
+    <!-- <link href="/css/indigo-theme.css" rel="stylesheet"> -->
+    <!-- <link href="/css/pink-theme.css" rel="stylesheet"> -->
+    <!-- <link href="/css/purple-theme.css" rel="stylesheet"> -->
+    <!-- <link href="/css/skyblue-theme.css" rel="stylesheet"> -->
+    <!-- <link href="/css/violet-theme.css" rel="stylesheet"> -->
 
     <!-- RESPONSIVE CSS -->
-    <link href="css/responsive.css" rel="stylesheet" />
+    <link href="/css/responsive.css" rel="stylesheet" />
   </head>
 
   <body class="theme--dark">
@@ -246,14 +246,6 @@
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N8WS8JLL"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
-     
-    <!-- PRELOADER SPINNER
-		============================================= -->
-    <div id="loading" class="loading--theme">
-      <div id="loading-center">
-        <span class="loader"><span class="loader-inner"></span></span>
-      </div>
-    </div>
 
     <!-- PAGE CONTENT
 		============================================= -->
@@ -265,8 +257,8 @@
           <!-- MOBILE HEADER -->
           <div class="wsmobileheader clearfix">
             <span class="smllogo">
-              <a href="pocetna"
-                ><img src="images/digitalni-dom-logo-light.png" alt="mobile-logo"
+              <a href="/pocetna"
+                ><img src="/images/digitalni-dom-logo-light.png" alt="mobile-logo"
               /></a>
             </span>
             <a id="wsnavtoggle" class="wsanimated-arrow"><span></span></a>
@@ -279,15 +271,15 @@
             >
               <!-- HEADER BLACK LOGO -->
               <div class="desktoplogo logo-black">
-                <a href="pocetna" class="logo-black"
-                  ><img src="images/logo-light.png" alt="logo"
+                <a href="/pocetna" class="logo-black"
+                  ><img src="/images/logo-light.png" alt="logo"
                 /></a>
               </div>
 
               <!-- HEADER WHITE LOGO -->
               <div class="desktoplogo logo-white">
-                <a href="pocetna" class="logo-white"
-                  ><img src="images/logo-light.png" alt="logo"
+                <a href="/pocetna" class="logo-white"
+                  ><img src="/images/logo-light.png" alt="logo"
                 /></a>
               </div>
 
@@ -296,7 +288,7 @@
                 <ul class="wsmenu-list nav-theme">
                   <!-- SIMPLE NAVIGATION LINK -->
                   <li class="nl-simple" aria-haspopup="true">
-                    <a href="pocetna" class="h-link">Početna</a>
+                    <a href="/pocetna" class="h-link">Početna</a>
                   </li>
 
                   <!-- DROPDOWN SUB MENU -->
@@ -306,16 +298,16 @@
                     ></a>
                     <ul class="sub-menu ico-10">
                       <li aria-haspopup="true" class="h-link">
-                        <a href="google-oglasavanje">Google oglašavanje</a>
+                        <a href="/google-oglasavanje">Google oglašavanje</a>
                       </li>
                       <li aria-haspopup="true" class="h-link">
-                        <a href="izrada-web-stranica">Izrada web stranica</a>
+                        <a href="/izrada-web-stranica">Izrada web stranica</a>
                       </li>
                       <li aria-haspopup="true" class="h-link">
-                        <a href="seo-optimizacija">SEO optimizacija</a>
+                        <a href="/seo-optimizacija">SEO optimizacija</a>
                       </li>
                       <li aria-haspopup="true" class="h-link">
-                        <a href="oglasavanje-na-drustvenim-mrezama"
+                        <a href="/oglasavanje-na-drustvenim-mrezama"
                           >Oglašavanje na društvenim mrežama</a
                         >
                       </li>
@@ -324,18 +316,18 @@
 
                   <!-- SIMPLE NAVIGATION LINK -->
                   <li class="nl-simple" aria-haspopup="true">
-                    <a href="o-nama" class="h-link">O nama</a>
+                    <a href="/o-nama" class="h-link">O nama</a>
                   </li>
 
                   <!-- SIMPLE NAVIGATION LINK -->
                   <li class="nl-simple" aria-haspopup="true">
-                    <a href="kontakt" class="h-link">Kontakt</a>
+                    <a href="/kontakt" class="h-link">Kontakt</a>
                   </li>
 
                   <!-- GET STARTED BUTTON -->
                   <li class="nl-simple" aria-haspopup="true">
                     <a
-                      href="kontakt"
+                      href="/kontakt"
                       class="btn r-06 btn--theme hover--tra-coal last-link"
                       >Zatražite ponudu</a
                     >
