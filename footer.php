@@ -88,7 +88,7 @@
               <div class="col">
                 <div class="footer-copyright">
                   <p class="p-sm">
-                    &copy; 2024 VDMA Agencija. <span>Sva prava pridržana</span>
+                    &copy; 2025 DigitalniDom. <span>Sva prava pridržana</span>
                   </p>
                 </div>
               </div>

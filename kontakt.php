@@ -54,16 +54,7 @@
                     type="text"
                     name="name"
                     class="form-control name"
-                    placeholder="Ime*"
-                  />
-                </div>
-
-                <div class="col-md-12">
-                  <input
-                    type="text"
-                    name="surname"
-                    class="form-control surname"
-                    placeholder="Prezime*"
+                    placeholder="Ime i prezime*"
                   />
                 </div>
 
@@ -100,6 +91,7 @@
                   <button
                     type="submit"
                     class="btn btn--theme hover--theme submit"
+                    value="Send"
                     onclick="sendMessage()"
                   >
                     Pošalji
@@ -479,16 +471,16 @@
     border-color: red;
   }
 </style>
-
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
 
 <script>
   function validateForm() {
     var name = document.querySelector('input[name="name"]').value;
-    var surname = document.querySelector('input[name="surname"]').value;
     var email = document.querySelector('input[name="email"]').value;
     var phone = document.querySelector('input[name="phone"]').value;
 
-    return name && surname && validateEmail(email) && phone;
+    return name && validateEmail(email) && phone;
   }
 
   function validateEmail(email) {
@@ -519,35 +511,48 @@
   });
 
   function sendMessage() {
+    event.preventDefault();
+
     if (!validateForm()) return;
 
-    var name = document.querySelector('input[name="name"]').value;
-    var surname = document.querySelector('input[name="surname"]').value;
-    var email = document.querySelector('input[name="email"]').value;
-    var phone = document.querySelector('input[name="phone"]').value;
-    var message = document.querySelector('textarea[name="message"]').value;
+    // Inicijalizirajte EmailJS s vašim korisničkim ID-om
+    emailjs.init("GwlhJVdz7PTdvT5Ti");
 
-    var xhr = new XMLHttpRequest();
-    xhr.open("POST", "https://digitalnidom-server.up.railway.app/kontakt", true);
-    xhr.setRequestHeader("Content-Type", "application/json");
-
-    xhr.onreadystatechange = function () {
-      if (xhr.readyState === XMLHttpRequest.DONE && xhr.status === 200) {
-        alert("Message sent successfully!");
-      }
+    // Collect form data
+    const formData = {
+        name: document.querySelector('input[name="name"]').value,
+        email: document.querySelector('input[name="email"]').value,
+        phone: document.querySelector('input[name="phone"]').value,
+        message: document.querySelector('textarea[name="message"]').value,
     };
 
-    var data = {
-      checkbox: true,
-      email: email,
-      ime: name,
-      prezime: surname,
-      telefon: phone,
-      textarea: message,
-      web: "digitalnidom.com",
-    };
-    
-    xhr.send(JSON.stringify(data));
+    // Send email using EmailJS
+    emailjs.send("service_7mp7xsc", "template_vqth45m", formData).then(
+        function (response) {
+            // Show a styled success message using SweetAlert2
+            Swal.fire({
+                title: "Poruka uspješno poslana!",
+                text: "Vaša poruka je poslana. Hvala vam što ste nas kontaktirali.",
+                icon: "success",
+                confirmButtonText: "U redu",
+                confirmButtonColor: "#3085d6",
+            }).then(() => {
+                location.reload(); // Reload the page after closing the SweetAlert
+            });
+        },
+        function (error) {
+            // Show a styled error message using SweetAlert2
+            Swal.fire({
+                title: "Greška!",
+                text: "Došlo je do greške prilikom slanja poruke. Molimo pokušajte ponovno.",
+                icon: "error",
+                confirmButtonText: "U redu",
+                confirmButtonColor: "#d33",
+            });
+            console.error("Greška:", error);
+        }
+    );
+
   }
 
   // Initial call to set button state
