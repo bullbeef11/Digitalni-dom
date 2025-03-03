@@ -17,6 +17,9 @@
   .text-over-video h2 {
     font-size: 2.65rem;
   }
+  .wsmenu > .wsmenu-list > li > ul.sub-menu{
+    top: 68px;
+  }
 }
 
 @media (min-width: 1399px) {

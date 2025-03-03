@@ -211,7 +211,7 @@
     <link href="/css/animate.css" rel="stylesheet" />
 
     <!-- TEMPLATE CSS -->
-    <link href="/css/default.css?v=1.01" rel="stylesheet" />
+    <link href="/css/default.css?v=1.02" rel="stylesheet" />
     <!-- <link href="/css/blue-theme.css" rel="stylesheet"> -->
     <!-- <link href="/css/darkblue-theme.css" rel="stylesheet" /> -->
     <!-- <link href="/css/indigo-theme.css" rel="stylesheet"> -->
@@ -292,6 +292,29 @@
                       <li aria-haspopup="true" class="h-link">
                         <a href="/oglasavanje-na-drustvenim-mrezama"
                           >Oglašavanje na društvenim mrežama</a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+
+                  <!-- DROPDOWN SUB MENU -->
+                  <li aria-haspopup="true">
+                    <a href="#" class="h-link"
+                      >Blog <span class="wsarrow"></span
+                    ></a>
+                    <ul class="sub-menu ico-10">
+                      <li aria-haspopup="true" class="h-link">
+                        <a href="/blog-google-oglasi">Google oglasi</a>
+                      </li>
+                      <li aria-haspopup="true" class="h-link">
+                        <a href="/blog-web-stranice">Web stranice</a>
+                      </li>
+                      <li aria-haspopup="true" class="h-link">
+                        <a href="/blog-seo-optimizacija">SEO Optimizacija</a>
+                      </li>
+                      <li aria-haspopup="true" class="h-link">
+                        <a href="/blog-drustvene-mreze"
+                          >Društvene mreže</a
                         >
                       </li>
                     </ul>
