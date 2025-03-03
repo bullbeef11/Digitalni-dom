@@ -297,7 +297,7 @@
                     </ul>
                   </li>
 
-                  <!-- DROPDOWN SUB MENU -->
+                  <!-- DROPDOWN SUB MENU 
                   <li aria-haspopup="true">
                     <a href="#" class="h-link"
                       >Blog <span class="wsarrow"></span
@@ -319,6 +319,7 @@
                       </li>
                     </ul>
                   </li>
+                  -->
 
                   <!-- SIMPLE NAVIGATION LINK -->
                   <li class="nl-simple" aria-haspopup="true">
