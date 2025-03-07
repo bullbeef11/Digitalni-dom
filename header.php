@@ -214,7 +214,7 @@
     <link href="/css/animate.css" rel="stylesheet" />
 
     <!-- TEMPLATE CSS -->
-    <link href="/css/default.css?v=1.02" rel="stylesheet" />
+    <link href="/css/default.css?v=1.04" rel="stylesheet" />
     <!-- <link href="/css/blue-theme.css" rel="stylesheet"> -->
     <!-- <link href="/css/darkblue-theme.css" rel="stylesheet" /> -->
     <!-- <link href="/css/indigo-theme.css" rel="stylesheet"> -->
@@ -224,7 +224,7 @@
     <!-- <link href="/css/violet-theme.css" rel="stylesheet"> -->
 
     <!-- RESPONSIVE CSS -->
-    <link href="/css/responsive.css" rel="stylesheet" />
+    <link href="/css/responsive.css?v=1.04" rel="stylesheet" />
   </head>
 
   <body class="theme--dark">
@@ -256,14 +256,14 @@
               class="container d-flex justify-content-between align-items-center"
             >
               <!-- HEADER BLACK LOGO -->
-              <div class="desktoplogo logo-black">
+              <div class="desktoplogo logo-black d-none d-lg-block">
                 <a href="/pocetna" class="logo-black"
                   ><img src="/images/logo-light.png" alt="logo"
                 /></a>
               </div>
 
               <!-- HEADER WHITE LOGO -->
-              <div class="desktoplogo logo-white">
+              <div class="desktoplogo logo-white d-none d-lg-block">
                 <a href="/pocetna" class="logo-white"
                   ><img src="/images/logo-light.png" alt="logo"
                 /></a>

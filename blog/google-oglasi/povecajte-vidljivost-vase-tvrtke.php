@@ -1,6 +1,6 @@
 <?php
   $pageTitle = 'Google oglasi'; 
-  include ("../header.php")
+  include ("../../header.php")
 ?>
 
 <section
@@ -9,16 +9,16 @@
 >
 
 <div class="container">
-  <div class="row justify-content-center text-center mb-4 mb-md-5">
+  <div class="row justify-content-center text-center mb-4 mb-md-5 wow animate__animated animate__fadeInUp wow animate__animated animate__fadeInUp">
     <div class="col-12 text-center mb-4 mb-lg-5">
-      <h1 class="mb-4">Kako Google oglasi povećavaju vidljivost vaše tvrtke</h1>
+      <h1 class="mb-4">Povećajte vidljivost Vaše tvrke</h1>
       
       <p class="p-lg">Google oglasi su moćan alat koji povećavaju vidljivost vaše tvrtke i privlače ciljane kupce. Otkrijte kako ova platforma može transformirati vaše poslovanje.</p>
     </div>
   </div>
-  <div class="row justify-content-center text-center mb-4 mb-md-5 pb-md-5">
+  <div class="row justify-content-center text-center mb-4 mb-md-5 pb-md-5 wow animate__animated animate__fadeInUp">
     <div class="col-md-4">
-        <img src="https://picsum.photos/800" alt="blog category" class="img-fluid rounded-4">
+        <img src="../../images/blog/google-oglasi/blog-google-oglasi-vidljivost.jpg" alt="blog category" class="img-fluid rounded-4">
     </div>
     <div class="col-md-8">
       <h4 class="mt-3 mt-md-0 mb-3">Precizno ciljanje publike</h4>
@@ -32,7 +32,7 @@
       <p>Uz to, Google oglasi omogućuju integraciju s drugim Googleovim alatima, što dodatno povećava vašu vidljivost.</p>
     </div>  
   </div>        
-  <div class="row justify-content-center text-center mb-4 mb-md-5">
+  <div class="row justify-content-center text-center mb-4 mb-md-5 wow animate__animated animate__fadeInUp wow animate__animated animate__fadeInUp">
     <div class="col-md-8">
       <h4 class="mb-3">Kontrola nad budžetom i strategijom</h4>
 
@@ -45,7 +45,7 @@
       <p>Time se osigurava maksimalan povrat ulaganja i poboljšanje marketinške strategije.</p>
     </div>
   </div>
-  <div class="row justify-content-center text-center mb-4 mb-md-5">
+  <div class="row justify-content-center text-center mb-4 mb-md-5 wow animate__animated animate__fadeInUp wow animate__animated animate__fadeInUp">
     <div class="col-md-8">
       <h4 class="mb-3">Učinkovita analitika i praćenje rezultata</h4>
 
@@ -60,7 +60,7 @@
       <p>Time se postiže kontinuirano poboljšanje marketinške strategije i povećanje povrata ulaganja.</p>
     </div>
   </div>
-  <div class="row justify-content-center text-center mb-4 mb-md-5">
+  <div class="row justify-content-center text-center mb-4 mb-md-5 wow animate__animated animate__fadeInUp wow animate__animated animate__fadeInUp">
     <div class="col-md-8">
       <h4 class="mb-3">Strategije za uspješne kampanje</h4>
 
@@ -80,5 +80,5 @@
 </section>
 
 <?php
-  include ("../footer.php")
+  include ("../../footer.php")
 ?>

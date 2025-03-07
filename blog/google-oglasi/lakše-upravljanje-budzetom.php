@@ -1,6 +1,6 @@
 <?php
   $pageTitle = 'Google oglasi'; 
-  include ("../header.php")
+  include ("../../header.php")
 ?>
 
 <section
@@ -9,16 +9,16 @@
 >
 
 <div class="container">
-  <div class="row justify-content-center text-center mb-4 mb-md-5">
+  <div class="row justify-content-center text-center mb-4 mb-md-5 wow animate__animated animate__fadeInUp wow animate__animated animate__fadeInUp">
     <div class="col-12 text-center mb-4 mb-lg-5">
-      <h1 class="mb-4">Kako Google oglasi pomažu u upravljanju budžetom za oglašavanje</h1>
+      <h1 class="mb-4">Lakše upravljanje budžetom</h1>
       
       <p class="p-lg">Upravljanje budžetom jedan je od najvažnijih aspekata svake marketinške kampanje. Google oglasi nude alate i strategije koje omogućuju optimizaciju troškova i maksimiziranje povrata ulaganja. Otkrijte kako učinkovito koristiti ove značajke za bolje rezultate.</p>
     </div>
   </div>
-  <div class="row justify-content-center text-center mb-4 mb-md-5 pb-md-5">
+  <div class="row justify-content-center text-center mb-4 mb-md-5 pb-md-5 wow animate__animated animate__fadeInUp">
     <div class="col-md-4">
-        <img src="https://picsum.photos/800" alt="budget management" class="img-fluid rounded-4">
+        <img src="../../images/blog/google-oglasi/blog-google-oglasi-budzet.jpg" alt="budget management" class="img-fluid rounded-4">
     </div>
     <div class="col-md-8">
       <h4 class="mt-3 mt-md-0 mb-3">Postavljanje dnevnih i mjesečnih budžeta</h4>
@@ -28,7 +28,7 @@
       <p>Budžeti se mogu prilagoditi u stvarnom vremenu, što je korisno za sezonske kampanje ili neočekivane prilike na tržištu.</p>
     </div>  
   </div>        
-  <div class="row justify-content-center text-center mb-4 mb-md-5">
+  <div class="row justify-content-center text-center mb-4 mb-md-5 wow animate__animated animate__fadeInUp wow animate__animated animate__fadeInUp">
     <div class="col-md-8">
       <h4 class="mb-3">Pametne strategije licitiranja</h4>
 
@@ -39,7 +39,7 @@
       <p>Ove opcije smanjuju potrebu za ručnim podešavanjem i omogućuju oglašivačima da se fokusiraju na kreativne aspekte kampanje.</p>
     </div>
   </div>
-  <div class="row justify-content-center text-center mb-4 mb-md-5">
+  <div class="row justify-content-center text-center mb-4 mb-md-5 wow animate__animated animate__fadeInUp wow animate__animated animate__fadeInUp">
     <div class="col-md-8">
       <h4 class="mb-3">Segmentacija prema performansama</h4>
 
@@ -50,7 +50,7 @@
       <p>Ova razina uvida osigurava da svaki dio vašeg budžeta bude iskorišten na najbolji mogući način.</p>
     </div>
   </div>
-  <div class="row justify-content-center text-center mb-4 mb-md-5">
+  <div class="row justify-content-center text-center mb-4 mb-md-5 wow animate__animated animate__fadeInUp wow animate__animated animate__fadeInUp">
     <div class="col-md-8">
       <h4 class="mb-3">Praćenje povrata ulaganja (ROI)</h4>
 
@@ -66,5 +66,5 @@
 </section>
 
 <?php
-  include ("../footer.php")
+  include ("../../footer.php")
 ?>

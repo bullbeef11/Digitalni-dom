@@ -1,6 +1,6 @@
 <?php
   $pageTitle = 'Google oglasi'; 
-  include ("../header.php")
+  include ("../../header.php")
 ?>
 
 <section
@@ -9,16 +9,16 @@
 >
 
 <div class="container">
-  <div class="row justify-content-center text-center mb-4 mb-md-5">
+  <div class="row justify-content-center text-center mb-4 mb-md-5 wow animate__animated animate__fadeInUp wow animate__animated animate__fadeInUp">
     <div class="col-12 text-center mb-4 mb-lg-5">
-      <h1 class="mb-4">Kako Google oglasi podržavaju strategije e-trgovine u 2025. godini</h1>
+      <h1 class="mb-4">Nove strategije za E-trgovine / Webshopove</h1>
       
       <p class="p-lg">Google oglasi u 2025. godini nude niz novih značajki koje podržavaju strategije e-trgovine. Otkrijte kako ove inovacije mogu poboljšati vaše online prodaje i povećati vidljivost vaše tvrtke.</p>
     </div>
   </div>
-  <div class="row justify-content-center text-center mb-4 mb-md-5 pb-md-5">
+  <div class="row justify-content-center text-center mb-4 mb-md-5 pb-md-5 wow animate__animated animate__fadeInUp">
     <div class="col-md-4">
-        <img src="https://picsum.photos/800" alt="ecommerce strategies" class="img-fluid rounded-4">
+        <img src="../../images/blog/google-oglasi/blog-google-oglasi-webshop.jpg" alt="ecommerce strategies" class="img-fluid rounded-4">
     </div>
     <div class="col-md-8">
       <h4 class="mt-3 mt-md-0 mb-3">Vizualno pretraživanje i virtualni shopping</h4>
@@ -30,7 +30,7 @@
       <p>Integracija s Googleovim vizualnim pretraživanjem omogućava brendovima da se istaknu u konkurenciji.</p>
     </div>  
   </div>        
-  <div class="row justify-content-center text-center mb-4 mb-md-5">
+  <div class="row justify-content-center text-center mb-4 mb-md-5 wow animate__animated animate__fadeInUp wow animate__animated animate__fadeInUp">
     <div class="col-md-8">
       <h4 class="mb-3">Napredne strategije licitiranja za e-trgovinu</h4>
 
@@ -41,7 +41,7 @@
       <p>Uz pomoć stručne agencije, možete maksimalno iskoristiti ove strategije kako biste postigli najbolje rezultate.</p>
     </div>
   </div>
-  <div class="row justify-content-center text-center mb-4 mb-md-5">
+  <div class="row justify-content-center text-center mb-4 mb-md-5 wow animate__animated animate__fadeInUp wow animate__animated animate__fadeInUp">
     <div class="col-md-8">
       <h4 class="mb-3">Prilagodba kampanja lokalnim tržištima</h4>
 
@@ -52,7 +52,7 @@
       <p>Integracija s Google Merchant Centerom dodatno poboljšava preciznost lokalnih oglasa.</p>
     </div>
   </div>
-  <div class="row justify-content-center text-center mb-4 mb-md-5">
+  <div class="row justify-content-center text-center mb-4 mb-md-5 wow animate__animated animate__fadeInUp wow animate__animated animate__fadeInUp">
     <div class="col-md-8">
       <h4 class="mb-3">Upravljanje prilagodljivim kreativnim sadržajem</h4>
 
@@ -68,5 +68,5 @@
 </section>
 
 <?php
-  include ("../footer.php")
+  include ("../../footer.php")
 ?>

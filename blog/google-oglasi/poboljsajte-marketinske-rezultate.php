@@ -1,6 +1,6 @@
 <?php
   $pageTitle = 'Google oglasi'; 
-  include ("../header.php")
+  include ("../../header.php")
 ?>
 
 <section
@@ -9,9 +9,9 @@
 >
 
 <div class="container">
-  <div class="row justify-content-center text-center mb-4 mb-md-5">
+  <div class="row justify-content-center text-center mb-4 mb-md-5 wow animate__animated animate__fadeInUp wow animate__animated animate__fadeInUp">
     <div class="col-12 text-center mb-4 mb-lg-5">
-      <h1 class="mb-4">Kako Google oglasi poboljšavaju vaše marketinške rezultate</h1>
+      <h1 class="mb-4">Poboljšajte marketinške rezultate</h1>
       
       <p class="p-lg">Google oglasi su moćan alat koji ne samo da povećavaju vidljivost vaše tvrtke, već i poboljšavaju vaše marketinške rezultate. Otkrijte kako ova platforma može poboljšati vašu marketinšku strategiju.</p>
 
@@ -20,9 +20,9 @@
       <p>Time se postiže maksimalan povrat ulaganja i poboljšanje marketinške strategije.</p>
     </div>
   </div>
-  <div class="row justify-content-center text-center mb-4 mb-md-5 pb-md-5">
+  <div class="row justify-content-center text-center mb-4 mb-md-5 pb-md-5 wow animate__animated animate__fadeInUp">
     <div class="col-md-4">
-        <img src="https://picsum.photos/800" alt="blog category" class="img-fluid rounded-4">
+        <img src="../../images/blog/google-oglasi/blog-google-oglasi-rezultati.jpg" alt="blog category" class="img-fluid rounded-4">
     </div>
     <div class="col-md-8">
       <h4 class="mt-3 mt-md-0 mb-3">Optimizacija za bolje rezultate</h4>
@@ -34,7 +34,7 @@
       <p>Agencije koriste najnovije trendove i alate kako bi vaše kampanje bile konkurentne i učinkovite.</p>
     </div>  
   </div>        
-  <div class="row justify-content-center text-center mb-4 mb-md-5">
+  <div class="row justify-content-center text-center mb-4 mb-md-5 wow animate__animated animate__fadeInUp wow animate__animated animate__fadeInUp">
     <div class="col-md-8">
       <h4 class="mb-3">Fleksibilnost i prilagodljivost</h4>
 
@@ -45,7 +45,7 @@
       <p>Google oglasi također podržavaju različite formate oglasa, što omogućava prilagodbu kampanja različitim poslovnim ciljevima i ciljanoj publici.</p>
     </div>
   </div>
-  <div class="row justify-content-center text-center mb-4 mb-md-5">
+  <div class="row justify-content-center text-center mb-4 mb-md-5 wow animate__animated animate__fadeInUp wow animate__animated animate__fadeInUp">
     <div class="col-md-8">
       <h4 class="mb-3">Integracija s drugim alatima</h4>
 
@@ -58,7 +58,7 @@
       <p>Google oglasi podržavaju širok raspon formata oglasa kako bi zadovoljili različite poslovne ciljeve i preferencije publike.</p>
     </div>
   </div>
-  <div class="row justify-content-center text-center mb-4 mb-md-5">
+  <div class="row justify-content-center text-center mb-4 mb-md-5 wow animate__animated animate__fadeInUp wow animate__animated animate__fadeInUp">
     <div class="col-md-8">
       <h4 class="mb-3">Rast vašeg poslovanja s Google oglasima</h4>
 
@@ -76,5 +76,5 @@
 </section>
 
 <?php
-  include ("../footer.php")
+  include ("../../footer.php")
 ?>

@@ -1,6 +1,6 @@
 <?php
   $pageTitle = 'Google oglasi'; 
-  include ("../header.php")
+  include ("../../header.php")
 ?>
 
 <section
@@ -9,16 +9,16 @@
 >
 
 <div class="container">
-  <div class="row justify-content-center text-center mb-4 mb-md-5">
+  <div class="row justify-content-center text-center mb-4 mb-md-5 wow animate__animated animate__fadeInUp wow animate__animated animate__fadeInUp">
     <div class="col-12 text-center mb-4 mb-lg-5">
-      <h1 class="mb-4">Kako Google oglasi redefiniraju korisničko iskustvo</h1>
+      <h1 class="mb-4">Redefiniranje korisničkog iskustva</h1>
       
       <p class="p-lg">Google oglasi u 2025. godini donose inovacije koje stavljaju korisničko iskustvo u prvi plan. Saznajte kako nove značajke poput vizualnog pretraživanja, napredne automatizacije i personalizacije mijenjaju način na koji brendovi komuniciraju s publikom.</p>
     </div>
   </div>
-  <div class="row justify-content-center text-center mb-4 mb-md-5 pb-md-5">
+  <div class="row justify-content-center text-center mb-4 mb-md-5 pb-md-5 wow animate__animated animate__fadeInUp">
     <div class="col-md-4">
-        <img src="https://picsum.photos/800" alt="blog category" class="img-fluid rounded-4">
+        <img src="../../images/blog/google-oglasi/blog-google-oglasi-korisnicko-iskustvo.jpg" alt="blog category" class="img-fluid rounded-4">
     </div>
     <div class="col-md-8">
       <h4 class="mt-3 mt-md-0 mb-3">Fokus na korisničko iskustvo</h4>
@@ -28,7 +28,7 @@
       <p>Primjena vizualnih elemenata, poput interaktivnih videozapisa i dinamičkih slika, dodatno poboljšava angažman publike. Ova strategija osigurava da korisnici dobiju informacije koje su im važne, na način koji im je najprikladniji.</p>
     </div>  
   </div>        
-  <div class="row justify-content-center text-center mb-4 mb-md-5">
+  <div class="row justify-content-center text-center mb-4 mb-md-5 wow animate__animated animate__fadeInUp wow animate__animated animate__fadeInUp">
     <div class="col-md-8">
       <h4 class="mb-3">Personalizacija kao ključ uspjeha</h4>
 
@@ -37,7 +37,7 @@
       <p>Na primjer, dinamički oglasi prikazuju proizvode koji odgovaraju prethodnim interesima korisnika, što povećava šanse za konverziju. Personalizacija ne samo da poboljšava rezultate kampanja, već i gradi povjerenje između brenda i potrošača.</p>
     </div>
   </div>
-  <div class="row justify-content-center text-center mb-4 mb-md-5">
+  <div class="row justify-content-center text-center mb-4 mb-md-5 wow animate__animated animate__fadeInUp wow animate__animated animate__fadeInUp">
     <div class="col-md-8">
       <h4 class="mb-3">Vizualno pretraživanje: Nova era e-trgovine</h4>
 
@@ -48,7 +48,7 @@
       <p>Integracija s alatima poput Google Lens-a dodatno proširuje mogućnosti vizualnog pretraživanja.</p>
     </div>
   </div>
-  <div class="row justify-content-center text-center mb-4 mb-md-5">
+  <div class="row justify-content-center text-center mb-4 mb-md-5 wow animate__animated animate__fadeInUp wow animate__animated animate__fadeInUp">
     <div class="col-md-8">
       <h4 class="mb-3">Napredna automatizacija za bolje rezultate</h4>
 
@@ -64,5 +64,5 @@
 </section>
 
 <?php
-  include ("../footer.php")
+  include ("../../footer.php")
 ?>

@@ -11421,3 +11421,7 @@ nav a#pull {
 .blog-category-wrapper p{
   font-size: 0.875rem !important;
 }
+
+.blog-category-page{
+  padding-top: 150px;
+}

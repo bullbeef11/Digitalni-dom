@@ -1,6 +1,6 @@
 <?php
   $pageTitle = 'Google oglasi'; 
-  include ("../header.php")
+  include ("../../header.php")
 ?>
 
 <section
@@ -9,16 +9,16 @@
 >
 
 <div class="container">
-  <div class="row justify-content-center text-center mb-4 mb-md-5">
+  <div class="row justify-content-center text-center mb-4 mb-md-5 wow animate__animated animate__fadeInUp wow animate__animated animate__fadeInUp">
     <div class="col-12 text-center mb-4 mb-lg-5">
-      <h1 class="mb-4">Najnoviji trendovi u Google oglasima za 2025. godinu</h1>
+      <h1 class="mb-4">Najnoviji trendovi u google oglasima</h1>
       
       <p class="p-lg">Google oglasi neprestano evoluiraju kako bi zadovoljili potrebe oglašivača i potrošača. Otkrijte ključne trendove koji će oblikovati digitalno oglašavanje u 2025. godini i kako ih možete iskoristiti za rast vašeg poslovanja.</p>
     </div>
   </div>
-  <div class="row justify-content-center text-center mb-4 mb-md-5 pb-md-5">
+  <div class="row justify-content-center text-center mb-4 mb-md-5 pb-md-5 wow animate__animated animate__fadeInUp wow animate__animated animate__fadeInUp">
     <div class="col-md-4">
-        <img src="https://picsum.photos/800" alt="blog category" class="img-fluid rounded-4">
+        <img src="../../images/blog/google-oglasi/blog-google-oglasi-trendovi.jpg" alt="blog category" class="img-fluid rounded-4">
     </div>
     <div class="col-md-8">
       <h4 class="mt-3 mt-md-0 mb-3">Automatizacija i umjetna inteligencija</h4>
@@ -30,7 +30,7 @@
       <p>Ova tehnologija omogućuje brže donošenje odluka i povećava efikasnost kampanja, što je ključno za uspjeh u dinamičnom digitalnom okruženju.</p>
     </div>  
   </div>        
-  <div class="row justify-content-center text-center mb-4 mb-md-5">
+  <div class="row justify-content-center text-center mb-4 mb-md-5 wow animate__animated animate__fadeInUp wow animate__animated animate__fadeInUp">
     <div class="col-md-8">
       <h4 class="mb-3">Personalizacija oglasa</h4>
 
@@ -41,7 +41,7 @@
       <p>Ova razina personalizacije ne samo da povećava relevantnost oglasa, već i poboljšava korisničko iskustvo te povećava stopu konverzije.</p>
     </div>
   </div>
-  <div class="row justify-content-center text-center mb-4 mb-md-5">
+  <div class="row justify-content-center text-center mb-4 mb-md-5 wow animate__animated animate__fadeInUp wow animate__animated animate__fadeInUp">
     <div class="col-md-8">
       <h4 class="mb-3">Integracija vizualnog pretraživanja</h4>
 
@@ -52,7 +52,7 @@
       <p>Integracija vizualnog pretraživanja pomaže brendovima da se istaknu i privuku više kupaca kroz inovativne pristupe oglašavanju.</p>
     </div>
   </div>
-  <div class="row justify-content-center text-center mb-4 mb-md-5">
+  <div class="row justify-content-center text-center mb-4 mb-md-5 wow animate__animated animate__fadeInUp wow animate__animated animate__fadeInUp">
     <div class="col-md-8">
       <h4 class="mb-3">Povećanje transparentnosti i kontrola</h4>
 
@@ -68,5 +68,5 @@
 </section>
 
 <?php
-  include ("../footer.php")
+  include ("../../footer.php")
 ?>
