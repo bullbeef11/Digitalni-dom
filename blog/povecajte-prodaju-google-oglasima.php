@@ -1,4 +1,5 @@
 <?php
+  $pageTitle = 'Google oglasi'; 
   include ("../header.php")
 ?>
 

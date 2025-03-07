@@ -8,7 +8,10 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Digitalni Marketing | SEO Optimizacija | Izrada Web Stranica</title>
+    <?php 
+    $title = isset($pageTitle) ? $pageTitle : 'Digitalni marketing | Google oglasi | SEO optimizacija | Izrada web stranica';
+    echo "<title>" . $title . "</title>";
+    ?>
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -297,30 +300,29 @@
                     </ul>
                   </li>
 
-                  <!-- DROPDOWN SUB MENU 
+                  <!-- DROPDOWN SUB MENU -->
                   <li aria-haspopup="true">
                     <a href="#" class="h-link"
                       >Blog <span class="wsarrow"></span
                     ></a>
                     <ul class="sub-menu ico-10">
                       <li aria-haspopup="true" class="h-link">
-                        <a href="/blog-google-oglasi">Google oglasi</a>
+                        <a href="/blog/google-oglasi-kategorije">Google oglasi</a>
                       </li>
                       <li aria-haspopup="true" class="h-link">
-                        <a href="/blog-web-stranice">Web stranice</a>
+                        <a href="/blog/web-stranice">Web stranice</a>
                       </li>
                       <li aria-haspopup="true" class="h-link">
-                        <a href="/blog-seo-optimizacija">SEO Optimizacija</a>
+                        <a href="/blog/seo-optimizacija">SEO Optimizacija</a>
                       </li>
                       <li aria-haspopup="true" class="h-link">
-                        <a href="/blog-drustvene-mreze"
+                        <a href="/blog/drustvene-mreze"
                           >Društvene mreže</a
                         >
                       </li>
                     </ul>
                   </li>
-                  -->
-
+                  
                   <!-- SIMPLE NAVIGATION LINK -->
                   <li class="nl-simple" aria-haspopup="true">
                     <a href="/o-nama" class="h-link">O nama</a>

@@ -11405,4 +11405,19 @@ body.theme--dark {
 
 nav a#pull {
   display: none;
+} 
+
+.blog-category-description{
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.blog-category-wrapper h5{
+  font-size: 1.25rem;
+}
+
+.blog-category-wrapper p{
+  font-size: 0.875rem !important;
 }
