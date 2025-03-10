@@ -310,7 +310,7 @@
                         <a href="/blog/google-oglasi-kategorije">Google oglasi</a>
                       </li>
                       <li aria-haspopup="true" class="h-link">
-                        <a href="/blog/web-stranice">Web stranice</a>
+                        <a href="/blog/web-stranice-kategorije">Web stranice</a>
                       </li>
                       <li aria-haspopup="true" class="h-link">
                         <a href="/blog/seo-optimizacija">SEO Optimizacija</a>
