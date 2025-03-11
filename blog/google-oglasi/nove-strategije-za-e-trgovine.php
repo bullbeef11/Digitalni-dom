@@ -18,7 +18,7 @@
   </div>
   <div class="row justify-content-center text-center mb-4 mb-md-5 pb-md-5 wow animate__animated animate__fadeInUp">
     <div class="col-md-4">
-        <img src="../../images/blog/google-oglasi/blog-google-oglasi-webshop.jpg" alt="ecommerce strategies" class="img-fluid rounded-4">
+        <img src="../../images/blog/google-oglasi/blog-google-oglasi-webshop.jpg" alt="Nove strategije za E-trgovine / Webshopove" class="img-fluid rounded-4">
     </div>
     <div class="col-md-8">
       <h4 class="mt-3 mt-md-0 mb-3">Vizualno pretraživanje i virtualni shopping</h4>

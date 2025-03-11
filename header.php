@@ -192,7 +192,9 @@
     />
 
     <!-- BOOTSTRAP CSS -->
-    <link href="/css/bootstrap.min.css" rel="stylesheet" />
+    <!-- <link href="/css/bootstrap.min.css" rel="stylesheet" /> -->
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 
     <!-- FONT ICONS -->
     <link href="/css/flaticon.css" rel="stylesheet" />
@@ -313,7 +315,7 @@
                         <a href="/blog/web-stranice-kategorije">Web stranice</a>
                       </li>
                       <li aria-haspopup="true" class="h-link">
-                        <a href="/blog/seo-optimizacija">SEO Optimizacija</a>
+                        <a href="/blog/seo-optimizacija-kategorije">SEO Optimizacija</a>
                       </li>
                       <li aria-haspopup="true" class="h-link">
                         <a href="/blog/drustvene-mreze"

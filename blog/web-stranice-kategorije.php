@@ -18,7 +18,7 @@
         <div class="row gx-4 gx-md-5 gy-4 gy-md-5">
           <div class="col-6 col-md-3">
             <a href="/blog/web-stranice/istaknutost-u-lokalnoj-zajednici" class="blog-category-wrapper">
-              <img src="../images/blog/web-stranice/istaknutonst-u-lokalnoj-zajednici.jpg" alt="blog category" class="img-fluid rounded-4">
+              <img src="../images/blog/web-stranice/istaknutonst-u-lokalnoj-zajednici.jpg" alt="Istaknutost u lokalnoj zajednici" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
                 Istaknutost u lokalnoj zajednici
               </h5>
@@ -30,7 +30,7 @@
           </div>
           <div class="col-6 col-md-3">
             <a href="/blog/web-stranice/izgradnja-brenda" class="blog-category-wrapper">
-              <img src="../images/blog/web-stranice/izgradnja-brenda.jpg" alt="blog category" class="img-fluid rounded-4">
+              <img src="../images/blog/web-stranice/izgradnja-brenda.jpg" alt="Izgradnja brenda" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
                 Izgradnja brenda
               </h5>
@@ -42,7 +42,7 @@
           </div>
           <div class="col-6 col-md-3">
             <a href="/blog/web-stranice/kljucni-dio-e-trgovine" class="blog-category-wrapper">
-              <img src="../images/blog/web-stranice/kljucni-dio-e-trgovine.jpg" alt="blog category" class="img-fluid rounded-4">
+              <img src="../images/blog/web-stranice/kljucni-dio-e-trgovine.jpg" alt="Kako web stranice podržavaju e-trgovinu?" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
               Kako web stranice podržavaju e-trgovinu?
               </h5>
@@ -54,7 +54,7 @@
           </div>
           <div class="col-6 col-md-3">
             <a href="/blog/web-stranice/podrska-digitalnom-marketingu" class="blog-category-wrapper">
-              <img src="../images/blog/web-stranice/podrska-digitalnom-marketingu.jpg" alt="blog category" class="img-fluid rounded-4">
+              <img src="../images/blog/web-stranice/podrska-digitalnom-marketingu.jpg" alt="Podrška digitalnom marketingu" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
               Podrška digitalnom marketingu
               </h5>
@@ -66,7 +66,7 @@
           </div>
           <div class="col-6 col-md-3">
             <a href="/blog/web-stranice/poslovni-rast" class="blog-category-wrapper">
-              <img src="../images/blog/web-stranice/poslovni-rast.jpg" alt="blog category" class="img-fluid rounded-4">
+              <img src="../images/blog/web-stranice/poslovni-rast.jpg" alt="Olakšavanje poslovnog rasta" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
               Olakšavanje poslovnog rasta
               </h5>
@@ -78,7 +78,7 @@
           </div>
           <div class="col-6 col-md-3">
             <a href="/blog/web-stranice/podrska-poslovnoj-komunikaciji" class="blog-category-wrapper">
-              <img src="../images/blog/web-stranice/podrska-poslovnoj-komunikaciji.jpg" alt="blog category" class="img-fluid rounded-4">
+              <img src="../images/blog/web-stranice/podrska-poslovnoj-komunikaciji.jpg" alt="Podrška poslovnoj komunikaciji" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
               Podrška poslovnoj komunikaciji
               </h5>
@@ -90,7 +90,7 @@
           </div>
           <div class="col-6 col-md-3">
             <a href="/blog/web-stranice/povecajte-online-prisutnost" class="blog-category-wrapper">
-              <img src="../images/blog/web-stranice/povecajte-online-prisutnost.jpg" alt="blog category" class="img-fluid rounded-4">
+              <img src="../images/blog/web-stranice/povecajte-online-prisutnost.jpg" alt="Povećajte online prisutnost" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
               Povećajte online prisutnost
               </h5>
@@ -102,7 +102,7 @@
           </div>
           <div class="col-6 col-md-3">
             <a href="/blog/web-stranice/zasto-su-web-stranice-kljucne" class="blog-category-wrapper">
-              <img src="../images/blog/web-stranice/zasto-su-web-stranice-kljucne.jpg" alt="blog category" class="img-fluid rounded-4">
+              <img src="../images/blog/web-stranice/zasto-su-web-stranice-kljucne.jpg" alt="Zašto su web stranice ključne za uspjeh?" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
               Zašto su web stranice ključne za uspjeh?
               </h5>

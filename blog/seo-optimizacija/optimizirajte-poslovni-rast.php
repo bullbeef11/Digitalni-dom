@@ -1,5 +1,5 @@
 <?php
-  $pageTitle = 'Web stranice'; 
+  $pageTitle = 'SEO optimizacija'; 
   include ("../../header.php")
 ?>
 
@@ -11,23 +11,23 @@
 <div class="container">
   <div class="row justify-content-center text-center mb-4 mb-md-5">
     <div class="col-12 text-center mb-4 mb-lg-5">
-      <h1 class="mb-4">Kako web stranice podržavaju poslovni rast</h1>
+      <h1 class="mb-4">Kako SEO optimizacija podržava poslovni rast</h1>
       
-      <p class="p-lg">Web stranice su ključni faktor u podršci poslovnog rasta jer omogućavaju stalnu prisutnost na tržištu, povećavaju vidljivost i olakšavaju komunikaciju s klijentima. Otkrijte kako vaše tvrtke mogu imati koristi od kvalitetne web stranice.</p>
+      <p class="p-lg">SEO optimizacija je ključni faktor u podršci poslovnog rasta jer omogućava poboljšanje pozicije u rezultatima pretraživanja i povećanje organskog prometa. Otkrijte kako vaše tvrtke mogu imati koristi od kvalitetne SEO strategije.</p>
     </div>
   </div>
   <div class="row justify-content-center text-center mb-4 mb-md-5 pb-md-5">
     <div class="col-md-4">
-        <img src="../../images/blog/web-stranice/poslovni-rast.jpg" alt="Kako web stranice podržavaju poslovni rast" class="img-fluid rounded-4">
+        <img src="../../images/blog/seo-optimizacija/optimizirajte-poslovni-rast.jpg" alt="Kako SEO optimizacija podržava poslovni rast" class="img-fluid rounded-4">
     </div>
     <div class="col-md-8">
       <h4 class="mt-3 mt-md-0 mb-3">Povećanje prodaje i konverzija</h4>
 
-      <p>Web stranice nude mogućnost povećanja prodaje i konverzija kroz jednostavne i intuitivne procese kupovine. Profesionalno dizajnirana web stranica može poboljšati korisničko iskustvo i povećati vjerojatnost da će korisnici kupiti vaše proizvode ili koristiti vaše usluge.</p>
+      <p>SEO optimizacija pomaže u povećanju prodaje i konverzija tako što poboljšava poziciju vaše web stranice u rezultatima pretraživanja. Korištenjem relevantnih ključnih riječi i kvalitetnog sadržaja, možete privući više korisnika koji su spremni za kupovinu.</p>
 
-      <p>Uz pomoć alata za analitiku, možete pratiti što funkcionira i što treba poboljšati kako biste postigli bolje rezultate.</p>
+      <p>Organski promet je posebno važan jer ne uključuje plaćanje za svaki klik, što ga čini ekonomičnijim od plaćenih oglasa.</p>
 
-      <p>Time se postiže kontinuirano poboljšanje vaše marketinške strategije i povećanje prodaje.</p>
+      <p>Time se postiže bolja vidljivost i povećanje šanse za konverzije.</p>
     </div>  
   </div>        
   <div class="row justify-content-center text-center mb-4 mb-md-5">

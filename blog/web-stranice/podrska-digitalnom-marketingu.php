@@ -18,7 +18,7 @@
   </div>
   <div class="row justify-content-center text-center mb-4 mb-md-5 pb-md-5">
     <div class="col-md-4">
-        <img src="../../images/blog/web-stranice/podrska-digitalnom-marketingu.jpg" alt="blog category" class="img-fluid rounded-4">
+        <img src="../../images/blog/web-stranice/podrska-digitalnom-marketingu.jpg" alt="Kako web stranice podržavaju digitalni marketing" class="img-fluid rounded-4">
     </div>
     <div class="col-md-8">
       <h4 class="mt-3 mt-md-0 mb-3">Integracija s društvenim mrežama</h4>

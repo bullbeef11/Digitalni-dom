@@ -18,7 +18,7 @@
   </div>
   <div class="row justify-content-center text-center mb-4 mb-md-5 pb-md-5 wow animate__animated animate__fadeInUp">
     <div class="col-md-4">
-        <img src="../../images/blog/google-oglasi/blog-google-oglasi-vidljivost.jpg" alt="blog category" class="img-fluid rounded-4">
+        <img src="../../images/blog/google-oglasi/blog-google-oglasi-vidljivost.jpg" alt="Povećajte vidljivost Vaše tvrke" class="img-fluid rounded-4">
     </div>
     <div class="col-md-8">
       <h4 class="mt-3 mt-md-0 mb-3">Precizno ciljanje publike</h4>

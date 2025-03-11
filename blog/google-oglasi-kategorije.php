@@ -18,7 +18,7 @@
         <div class="row gx-4 gx-md-5 gy-4 gy-md-5">
           <div class="col-6 col-md-3">
             <a href="/blog/google-oglasi/najnoviji-trendovi-u-google-oglasima " class="blog-category-wrapper">
-              <img src="../images/blog/google-oglasi/blog-google-oglasi-trendovi.jpg" alt="blog category" class="img-fluid rounded-4">
+              <img src="../images/blog/google-oglasi/blog-google-oglasi-trendovi.jpg" alt="Najnoviji trendovi u google oglasima" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
                 Najnoviji trendovi u google oglasima
               </h5>
@@ -30,7 +30,7 @@
           </div>
           <div class="col-6 col-md-3">
             <a href="/blog/google-oglasi/lakše-upravljanje-budzetom" class="blog-category-wrapper">
-              <img src="../images/blog/google-oglasi/blog-google-oglasi-budzet.jpg" alt="blog category" class="img-fluid rounded-4">
+              <img src="../images/blog/google-oglasi/blog-google-oglasi-budzet.jpg" alt="Lakše upravljanje budžetom" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
                 Lakše upravljanje budžetom
               </h5>
@@ -42,7 +42,7 @@
           </div>
           <div class="col-6 col-md-3">
             <a href="/blog/google-oglasi/najbolji-izbor-za-rast-poslovanja" class="blog-category-wrapper">
-              <img src="../images/blog/google-oglasi/blog-google-oglasi-rast-poslovanja.jpg" alt="blog category" class="img-fluid rounded-4">
+              <img src="../images/blog/google-oglasi/blog-google-oglasi-rast-poslovanja.jpg" alt="Najbolji izbor za rast poslovanja" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
                 Najbolji izbor za rast poslovanja
               </h5>
@@ -54,7 +54,7 @@
           </div>
           <div class="col-6 col-md-3">
             <a href="/blog/google-oglasi/nove-strategije-za-e-trgovine" class="blog-category-wrapper">
-              <img src="../images/blog/google-oglasi/blog-google-oglasi-webshop.jpg" alt="blog category" class="img-fluid rounded-4">
+              <img src="../images/blog/google-oglasi/blog-google-oglasi-webshop.jpg" alt="Nove strategije za E-trgovine / Webshopove" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
                 Nove strategije za E-trgovine / Webshopove
               </h5>
@@ -66,7 +66,7 @@
           </div>
           <div class="col-6 col-md-3">
             <a href="/blog/google-oglasi/poboljsajte-marketinske-rezultate" class="blog-category-wrapper">
-              <img src="../images/blog/google-oglasi/blog-google-oglasi-rezultati.jpg" alt="blog category" class="img-fluid rounded-4">
+              <img src="../images/blog/google-oglasi/blog-google-oglasi-rezultati.jpg" alt="Poboljšajte marketinške rezultate" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
                 Poboljšajte marketinške rezultate
               </h5>
@@ -78,7 +78,7 @@
           </div>
           <div class="col-6 col-md-3">
             <a href="/blog/google-oglasi/povecajte-prodaju-google-oglasima" class="blog-category-wrapper">
-              <img src="../images/blog/google-oglasi/blog-google-oglasi-prodaja.jpg" alt="blog category" class="img-fluid rounded-4">
+              <img src="../images/blog/google-oglasi/blog-google-oglasi-prodaja.jpg" alt="Povećajte prodaju google oglasima" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
                 Povećajte prodaju google oglasima
               </h5>
@@ -90,7 +90,7 @@
           </div>
           <div class="col-6 col-md-3">
             <a href="/blog/google-oglasi/redefiniranje-korisnickog-iskustva" class="blog-category-wrapper">
-              <img src="../images/blog/google-oglasi/blog-google-oglasi-korisnicko-iskustvo.jpg" alt="blog category" class="img-fluid rounded-4">
+              <img src="../images/blog/google-oglasi/blog-google-oglasi-korisnicko-iskustvo.jpg" alt="Redefiniranje korisničkog iskustva" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
                 Redefiniranje korisničkog iskustva
               </h5>
@@ -102,7 +102,7 @@
           </div>
           <div class="col-6 col-md-3">
             <a href="/blog/google-oglasi/povecajte-vidljivost-vase-tvrtke" class="blog-category-wrapper">
-              <img src="../images/blog/google-oglasi/blog-google-oglasi-vidljivost.jpg  " alt="blog category" class="img-fluid rounded-4">
+              <img src="../images/blog/google-oglasi/blog-google-oglasi-vidljivost.jpg  " alt="Povećajte vidljivost Vaše tvrke" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
                 Povećajte vidljivost Vaše tvrke
               </h5>
