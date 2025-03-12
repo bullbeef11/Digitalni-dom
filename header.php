@@ -29,6 +29,9 @@
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://digitalnidom.com/assets/logo.svg">
     <meta property="og:locale" content="hr_HR">
+    <meta property="og:title" content="Digitalni dom">
+    <meta property="og:description" content="Pružamo usluge digitalnog marketinga, uključujući Google oglase, SEO optimizaciju, izradu web stranica i oglašavanje na društvenim mrežama">
+    <meta property="og:image" content="/share-new.png">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Digitalni Marketing | SEO Optimizacija | Izrada Web Stranica">
     <meta name="twitter:description" content="Pružamo usluge digitalnog marketinga, uključujući Google oglase, SEO optimizaciju, izradu web stranica i oglašavanje na društvenim mrežama.">
