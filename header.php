@@ -333,11 +333,6 @@
                     <a href="/o-nama" class="h-link">O nama</a>
                   </li>
 
-                  <!-- SIMPLE NAVIGATION LINK -->
-                  <li class="nl-simple" aria-haspopup="true">
-                    <a href="/kontakt" class="h-link">Kontakt</a>
-                  </li>
-
                   <!-- GET STARTED BUTTON -->
                   <li class="nl-simple" aria-haspopup="true">
                     <a
