@@ -320,11 +320,11 @@
                       <li aria-haspopup="true" class="h-link">
                         <a href="/blog/seo-optimizacija-kategorije">SEO Optimizacija</a>
                       </li>
-                      <li aria-haspopup="true" class="h-link">
+                      <!-- <li aria-haspopup="true" class="h-link">
                         <a href="/blog/drustvene-mreze-kategorije"
                           >Društvene mreže</a
                         >
-                      </li>
+                      </li> -->
                     </ul>
                   </li>
                   
