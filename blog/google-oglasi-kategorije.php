@@ -12,7 +12,8 @@
         <div class="row">
           <div class="col-12">
             <h1 class="h1-title mb-3">Google oglasi</h2>
-            <p class="p-lg mb-4 mb-md-5">Pročitajte više o potencijalu proširenja Vašeg poslovanja putem google oglasa</p>
+            <p class="p-lg">Google oglašavanje (Google Ads) jedan je od najučinkovitijih kanala digitalnog marketinga za privlačenje novih klijenata i povećanje prodaje. Na ovom blogu donosimo najnovije savjete, vodiče i primjere kako poboljšati rezultate vaših Google Ads kampanja u Hrvatskoj. </p>
+            <h4 class="my-4">Najvažniji članci o Google oglašavanju</h2>
           </div>
         </div>
         <div class="row gx-4 gx-md-5 gy-4 gy-md-5">

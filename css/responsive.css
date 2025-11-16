@@ -3047,6 +3047,9 @@
 /* ------------------------------------------------------------------------ */
 
 @media (min-width: 768px) and (max-width: 991.98px) {
+  .desktoplogo{
+    display: none !important;
+  }
   .blog-category-page{
     padding-top: 100px;
   }
@@ -6781,6 +6784,9 @@
 /* ------------------------------------------------------------------------ */
 
 @media (max-width: 767px) {
+  .desktoplogo{
+    display: none !important;
+  }
   .blog-category-page{
     padding-top: 100px;
   }

@@ -83,7 +83,7 @@
 
                 <!-- Text -->
                 <p>
-                  Digitalni marketing je ključan za rast vašeg poslovanja u današnjem digitalnom svijetu, a korištenjem Google oglasa možete dosegnuti pravu publiku i povećati svoju vidljivost. 
+                  Digitalni marketing je ključan za rast vašeg poslovanja u današnjem digitalnom svijetu, a korištenjem <a class="orange-text-link" href="/google-oglasavanje">Google oglasa</a> možete dosegnuti pravu publiku i povećati svoju vidljivost. 
                 </p>
 
                 <!-- Text -->
@@ -96,7 +96,7 @@
 
                   <li class="list-item">
                     <p class="mb-0">
-                      SEO optimizacija osigurava da vaša web stranica bude lako pronađena u pretraživačima, povećavajući organski promet i prodaju.
+                      <a class="orange-text-link" href="/seo-optimizacija">SEO optimizacija</a> osigurava da vaša web stranica bude lako pronađena u pretraživačima, povećavajući organski promet i prodaju.
                     </p>
                   </li>
                 </ul>
@@ -236,7 +236,7 @@
                   <div class="fbox-txt">
                     <h5>Izrada sadržaja</h5>
                     <p>
-                      Kvalitetan sadržaj ključan je za privlačenje i zadržavanje korisnika. Naš tim kreira privlačan sadržaj prilagođen Google oglašavanju i društvenim mrežama za maksimalnu vidljivost.
+                      Kvalitetan sadržaj ključan je za privlačenje i zadržavanje korisnika. Naš tim kreira privlačan sadržaj prilagođen <a class="orange-text-link" href="/google-oglasavanje">Google oglašavanju</a> i <a class="orange-text-link" href="/oglasavanje-na-drustvenim-mrezama">društvenim mrežama</a> za maksimalnu vidljivost.
                     </p>
                   </div>
                 </div>
@@ -273,7 +273,7 @@
                   <div class="fbox-txt">
                     <h5>SEO optimizacija</h5>
                     <p>
-                      SEO optimizacija povećava organski promet na vašoj web stranici. Naše SEO usluge osiguravaju visoke pozicije na pretraživačima, čime poboljšavamo vašu online prisutnost i vidljivost.
+                      <a class="orange-text-link" href="/seo-optimizacija">SEO optimizacija</a> povećava organski promet na vašoj web stranici. Naše SEO usluge osiguravaju visoke pozicije na pretraživačima, čime poboljšavamo vašu online prisutnost i vidljivost.
                     </p>
                   </div>
                 </div>
@@ -315,13 +315,13 @@
                     <ul class="simple-list">
                       <li class="list-item">
                         <p>
-                          Korištenjem digitalnog marketinga, možete učinkovito dosegnuti ciljanu publiku kroz Google oglase, oglašavanje na društvenim mrežama i SEO optimizaciju, čime povećavate vidljivost i angažman korisnika.
+                          Korištenjem digitalnog marketinga, možete učinkovito dosegnuti ciljanu publiku kroz <a class="orange-text-link" href="/google-oglasavanje">Google oglase</a>, <a class="orange-text-link" href="/oglasavanje-na-drustvenim-mrezama">oglašavanje na društvenim mrežama</a> i <a class="orange-text-link" href="/seo-optimizacija">SEO optimizaciju</a>, čime povećavate vidljivost i angažman korisnika.
                         </p>
                       </li>
 
                       <li class="list-item">
                         <p class="mb-0">
-                          Izrada kvalitetne web stranice i kontinuirana analiza rezultata omogućavaju prilagodbu strategija za maksimalan povrat ulaganja i dugoročni poslovni rast.
+                          <a class="orange-text-link" href="/izrada-web-stranica">Izrada kvalitetne web stranice</a> i kontinuirana analiza rezultata omogućavaju prilagodbu strategija za maksimalan povrat ulaganja i dugoročni poslovni rast.
                         </p>
                       </li>
                     </ul>
@@ -500,7 +500,7 @@
                 <ul class="simple-list">
                   <li class="list-item">
                     <p>
-                      Naša sveobuhvatna rješenja za digitalni marketing pomažu vam da učinkovito upravljate svim aspektima vaših kampanja, od SEO optimizacije do oglašavanja na društvenim mrežama.
+                      Naša sveobuhvatna rješenja za digitalni marketing pomažu vam da učinkovito upravljate svim aspektima vaših kampanja, od <a class="orange-text-link" href="/seo-optimizacija">SEO optimizacije</a> do <a class="orange-text-link" href="/oglasavanje-na-drustvenim-mrezama">oglašavanja na društvenim mrežama.</a>
                     </p>
                   </li>
 
@@ -538,7 +538,7 @@
 
                 <!-- Text -->
                 <p>
-                  Korištenjem Google oglasa i oglašavanja na društvenim mrežama, možete precizno ciljati specifične demografske skupine, interese i geografske lokacije.
+                  Korištenjem <a class="orange-text-link" href="/google-oglasavanje">Google oglasa</a> i <a class="orange-text-link" href="/oglasavanje-na-drustvenim-mrezama">oglašavanja na društvenim mrežama</a>, možete precizno ciljati specifične demografske skupine, interese i geografske lokacije.
                 </p>
 
                 <!-- Text -->
@@ -781,7 +781,7 @@
 
                 <!-- Text -->
                 <p>
-                  Naše sveobuhvatne usluge pružaju vam sve potrebno za uspješno vođenje online poslovanja, obuhvaćajući digitalni marketing, razvoj i dizajn web stranica, analizu podataka te strategije sadržaja.
+                  Naše sveobuhvatne usluge pružaju vam sve potrebno za uspješno vođenje online poslovanja, obuhvaćajući digitalni marketing, <a class="orange-text-link" href="/izrada-web-stranica">razvoj i dizajn web stranica</a>, analizu podataka te strategije sadržaja.
                 </p>
 
                 <!-- Text -->
@@ -823,8 +823,14 @@
 
                     <!-- Text -->
                     <p class="mb-0">
-                      Bez obzira trebate li povećati prodaju, poboljšati vidljivost ili izgraditi prepoznatljiv brand, naše strategije prilagođene su vašim potrebama i donose konkretne rezultate koji će unaprijediti vaše poslovanje na internetu.
+                      Bez obzira trebate li <a class="orange-text-link" href="/izrada-web-stranica">web stranicu</a>, povećati prodaju, poboljšati vidljivost ili izgraditi prepoznatljiv brand, naše strategije prilagođene su vašim potrebama i donose konkretne rezultate koji će unaprijediti vaše poslovanje na internetu.
                     </p>
+
+                    <a
+                      href="/kontakt"
+                      class="btn r-06 btn--theme hover--tra-coal"
+                      >Saznajte više</a
+                    >
                   </div>
                 </div>
                 <!-- END TEXT BLOCK -->
@@ -888,16 +894,16 @@
                       <div class="tool_logo">
                         <img
                           class="img-fluid"
-                          src="images/png_icons/mailchimp.png"
-                          alt="mailchimp-logo"
+                          src="images/png_icons/cookie-2.png"
+                          alt="cookiebot"
                         />
                       </div>
                     </div>
 
                     <!-- Text -->
                     <div class="tool_txt">
-                      <h6 class="h6-lg">MailChimp</h6>
-                      <p>E-mail kampanje</p>
+                      <h6 class="h6-lg">Cookiebot</h6>
+                      <p>Sukladnost s GDPR-om</p>
                     </div>
                   </div>
                 </div>
@@ -968,7 +974,7 @@
                 class="more-btn text-center mt-30 wow animate__animated animate__fadeInUp"
               >
                 <a
-                  href="integrations.html"
+                  href="/kontakt"
                   class="btn r-06 btn--tra-black hover--theme"
                   >Saznajte više</a
                 >
@@ -1253,7 +1259,7 @@
                 <ul class="simple-list">
                   <li class="list-item">
                     <p>
-                      Kvalitetan sadržaj je srce svake uspješne strategije na društvenim mrežama, jer privlači, angažira i zadržava vašu ciljanu publiku.
+                      Kvalitetan sadržaj je srce svake uspješne strategije na <a class="orange-text-link" href="/oglasavanje-na-drustvenim-mrezama">društvenim mrežama</a>, jer privlači, angažira i zadržava vašu ciljanu publiku.
                     </p>
                   </li>
 
@@ -1467,13 +1473,11 @@
                   <!-- QUESTION #2 -->
                   <div class="question wow animate__animated animate__fadeInUp">
                     <!-- Question -->
-                    <h6 class="h6-xl">
-                      Koliko dugo traje podrška?
-                    </h6>
+                    <h6 class="h6-xl">Koja je najbolja strategija oglašavanja za moje poslovanje?</h6>
 
                     <!-- Answer -->
                     <p>
-                      Naša podrška je stalno dostupna kako bi riješila sve vaše upite i probleme. Neograničena podrška dostupna je tijekom cijelog trajanja suradnje s nama.
+                      Svako poslovanje je jedinstveno, stoga je najbolje strategije oglašavanja prilagoditi vašim specifičnim ciljevima i potrebama. Kontaktirajte nas kako bismo pružili personalizirane preporuke i savjete za vaše poslovanje.
                     </p>
                   </div>
                   <!-- END QUESTION #2 -->
@@ -1499,16 +1503,25 @@
                   <!-- END QUESTION #3 -->
 
                   <!-- QUESTION #4 -->
-                  <div class="question wow animate__animated animate__fadeInUp">
-                    <!-- Question -->
-                    <h6 class="h6-xl">Koja je najbolja strategija oglašavanja za moje poslovanje?</h6>
+                    <div class="question wow animate__animated animate__fadeInUp">
+                      <!-- Question -->
+                      <h6 class="h6-xl">
+                        Koliko dugo traje podrška?
+                      </h6>
 
-                    <!-- Answer -->
-                    <p>
-                      Svako poslovanje je jedinstveno, stoga je najbolje strategije oglašavanja prilagoditi vašim specifičnim ciljevima i potrebama. Kontaktirajte nas kako bismo pružili personalizirane preporuke i savjete za vaše poslovanje.
-                    </p>
-                  </div>
+                      <!-- Answer -->
+                      <p>
+                        Naša podrška je stalno dostupna kako bi riješila sve vaše upite i probleme. Neograničena podrška dostupna je tijekom cijelog trajanja suradnje s nama.
+                      </p>
+
+                      <a
+                        href="/kontakt"
+                        class="btn r-06 btn--theme hover--tra-coal mt-3"
+                        >Saznajte više</a
+                      > 
+                    </div>
                   <!-- END QUESTION #4 -->
+
                 </div>
               </div>
               <!-- END QUESTIONS HOLDER -->
@@ -1525,7 +1538,7 @@
               >
                 <h6 class="h6-lg">
                   <span>Imate još pitanja?</span>
-                  <a href="kontakt" class="color--theme">Kontaktirajte</a> nas bilo kada.
+                  <a href="kontakt" class="color--theme">Kontaktirajte</a> nas bilo kad.
                 </h6>
               </div>
             </div>

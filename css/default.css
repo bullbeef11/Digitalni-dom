@@ -10675,8 +10675,22 @@ body.theme--dark {
 /*  TYPOGRAPHY
 /*------------------------------------------*/
 
+.CybotCookiebotDialogBodyButton{
+  background: #ff7100 !important;
+  color: #fff !important;
+  border: none !important;
+}
+
+#CybotCookiebotDialog input:checked+.CybotCookiebotDialogBodyLevelButtonSlider{
+  background: #ff7100 !important;
+}
+
 .theme--dark a {
   color: var(--gray);
+}
+
+.theme--dark .orange-text-link{
+  color: #ff7100;
 }
 
 .theme--dark a:hover,

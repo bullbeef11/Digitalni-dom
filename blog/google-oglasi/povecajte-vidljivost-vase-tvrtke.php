@@ -75,6 +75,15 @@
       <p>Google oglasi podržavaju širok raspon formata oglasa, što omogućava prilagodbu kampanja različitim poslovnim ciljevima i ciljanoj publici.</p>
     </div>
   </div>
+  <div class="row  mb-4 mb-md-5 wow animate__animated animate__fadeInUp wow animate__animated animate__fadeInUp">
+    <div class="col-12 d-flex justify-content-center">
+      <a
+        href="/google-oglasavanje"
+        class="btn r-06 btn--theme hover--tra-coal mx-auto"
+        >Saznajte više</a
+      >
+    </div>
+  </div> 
 </div>
 
 </section>

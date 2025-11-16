@@ -4,7 +4,7 @@
 <!--[if IE 7]><html class="ie ie7" lang="en"> <![endif]-->
 <!--[if IE 8]><html class="ie ie8" lang="en"> <![endif]-->
 <!--[if (gte IE 9)|!(IE)]><!-->
-<html lang="en">
+<html lang="hr">
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -219,7 +219,7 @@
     <link href="/css/animate.css" rel="stylesheet" />
 
     <!-- TEMPLATE CSS -->
-    <link href="/css/default.css?v=1.04" rel="stylesheet" />
+    <link href="/css/default.css?v=1.05" rel="stylesheet" />
     <!-- <link href="/css/blue-theme.css" rel="stylesheet"> -->
     <!-- <link href="/css/darkblue-theme.css" rel="stylesheet" /> -->
     <!-- <link href="/css/indigo-theme.css" rel="stylesheet"> -->
@@ -249,7 +249,7 @@
           <div class="wsmobileheader clearfix">
             <span class="smllogo">
               <a href="/pocetna"
-                ><img src="/images/digitalni-dom-logo-light.png" alt="mobile-logo"
+                ><img src="/images/digitalni-dom-logo-light.png" alt="Digitalni marketing"
               /></a>
             </span>
             <a id="wsnavtoggle" class="wsanimated-arrow"><span></span></a>
@@ -261,16 +261,16 @@
               class="container d-flex justify-content-between align-items-center"
             >
               <!-- HEADER BLACK LOGO -->
-              <div class="desktoplogo logo-black d-none d-lg-block">
+              <div class="desktoplogo logo-black">
                 <a href="/pocetna" class="logo-black"
-                  ><img src="/images/logo-light.png" alt="logo"
+                  ><img src="/images/logo-light.png" alt="Početna"
                 /></a>
               </div>
 
               <!-- HEADER WHITE LOGO -->
-              <div class="desktoplogo logo-white d-none d-lg-block">
+              <div class="desktoplogo logo-white">
                 <a href="/pocetna" class="logo-white"
-                  ><img src="/images/logo-light.png" alt="logo"
+                  ><img src="/images/logo-light.png" alt="Početna"
                 /></a>
               </div>
 
@@ -341,6 +341,7 @@
                       >Zatražite ponudu</a
                     >
                   </li>
+
                 </ul>
               </nav>
               <!-- END MAIN MENU -->

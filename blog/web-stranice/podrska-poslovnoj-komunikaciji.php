@@ -63,6 +63,15 @@
       <p>Time se postiže kontinuirano poboljšanje vaše web stranice i povećanje učinkovitosti vaše marketinške strategije.</p>
     </div>
   </div>
+  <div class="row  mb-4 mb-md-5 wow animate__animated animate__fadeInUp wow animate__animated animate__fadeInUp">
+    <div class="col-12 d-flex justify-content-center">
+      <a
+        href="/izrada-web-stranica"
+        class="btn r-06 btn--theme hover--tra-coal mx-auto"
+        >Saznajte više</a
+      >
+    </div>
+  </div>
 </div>
 
 </section>
