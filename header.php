@@ -11,6 +11,13 @@
     <?php 
     $title = isset($pageTitle) ? $pageTitle : 'Digitalni marketing | Google oglasi | SEO optimizacija | Izrada web stranica';
     echo "<title>" . $title . "</title>";
+
+    // Build the full canonical URL dynamically
+    $scheme = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? 'https' : 'http';
+    $host   = $_SERVER['HTTP_HOST'];
+    $uri    = strtok($_SERVER['REQUEST_URI'], '?'); // remove query strings
+
+    $canonical = $scheme . '://' . $host . $uri;
     ?>
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -22,7 +29,7 @@
     <meta name="description" content="Pružamo usluge digitalnog marketinga, uključujući Google oglase, SEO optimizaciju, izradu web stranica i oglašavanje na društvenim mrežama.">
     <meta name="keywords" content="digitalni marketing, google oglasi, SEO optimizacija, izrada web stranica, online oglašavanje, društvene mreže, google oglašavanje, facebook oglašavanje, instagram oglašavanje">
     <meta name="author" content="Digitalni dom">
-    <link rel="canonical" href="https://www.digitalnidom.com">
+    <link rel="canonical" href="<?= htmlspecialchars($canonical, ENT_QUOTES, 'UTF-8'); ?>" />
     <meta property="og:title" content="Digitalni Marketing | SEO Optimizacija | Izrada Web Stranica">
     <meta property="og:description" content="Pružamo usluge digitalnog marketinga, uključujući Google oglase, SEO optimizaciju, izradu web stranica i oglašavanje na društvenim mrežama.">
     <meta property="og:url" content="https://digitalnidom.com">
@@ -248,7 +255,7 @@
           <!-- MOBILE HEADER -->
           <div class="wsmobileheader clearfix">
             <span class="smllogo">
-              <a href="/pocetna"
+              <a href="/"
                 ><img src="/images/digitalni-dom-logo-light.png" alt="Digitalni marketing"
               /></a>
             </span>
@@ -262,14 +269,14 @@
             >
               <!-- HEADER BLACK LOGO -->
               <div class="desktoplogo logo-black">
-                <a href="/pocetna" class="logo-black"
+                <a href="/" class="logo-black"
                   ><img src="/images/logo-light.png" alt="Početna"
                 /></a>
               </div>
 
               <!-- HEADER WHITE LOGO -->
               <div class="desktoplogo logo-white">
-                <a href="/pocetna" class="logo-white"
+                <a href="/" class="logo-white"
                   ><img src="/images/logo-light.png" alt="Početna"
                 /></a>
               </div>
@@ -279,7 +286,7 @@
                 <ul class="wsmenu-list nav-theme">
                   <!-- SIMPLE NAVIGATION LINK -->
                   <li class="nl-simple" aria-haspopup="true">
-                    <a href="/pocetna" class="h-link">Početna</a>
+                    <a href="/" class="h-link">Početna</a>
                   </li>
 
                   <!-- DROPDOWN SUB MENU -->
