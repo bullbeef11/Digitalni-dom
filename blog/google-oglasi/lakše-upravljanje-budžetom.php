@@ -1,6 +1,15 @@
 <?php
-  $pageTitle = 'Google oglasi'; 
-  include ("../../header.php")
+  $brand='Digitalni Dom';
+  $uriParts=explode('/',trim($_SERVER['REQUEST_URI'],'/'));
+  $pageTitle='Digitalni marketing | Google oglasi | SEO optimizacija | Digitalni Dom';
+  if(isset($uriParts[0],$uriParts[1],$uriParts[2]) && $uriParts[0]==='blog' && $uriParts[1]==='google-oglasi'){
+      $postSlug = urldecode($uriParts[2]);
+      setlocale(LC_CTYPE, 'hr_HR.UTF-8'); // Croatian locale
+      $postTitle = mb_convert_case(str_replace(['-', '_'], ' ', $postSlug), MB_CASE_TITLE, "UTF-8");
+      $category='Google oglasi';
+      $pageTitle=$postTitle.' | '.$category.' | '.$brand;
+  }
+  include("../../header.php");
 ?>
 
 <section
@@ -11,7 +20,7 @@
 <div class="container">
   <div class="row justify-content-center text-center mb-4 mb-md-5 wow animate__animated animate__fadeInUp wow animate__animated animate__fadeInUp">
     <div class="col-12 text-center mb-4 mb-lg-5">
-      <h1 class="mb-4">Lakše upravljanje budžetom</h1>
+      <h1 class="mb-4">Kako lakše upravljati Google Ads budžetom i povećati ROI</h1>
       
       <p class="p-lg">Upravljanje budžetom jedan je od najvažnijih aspekata svake marketinške kampanje. Google oglasi nude alate i strategije koje omogućuju optimizaciju troškova i maksimiziranje povrata ulaganja. Otkrijte kako učinkovito koristiti ove značajke za bolje rezultate.</p>
     </div>

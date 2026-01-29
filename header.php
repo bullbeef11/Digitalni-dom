@@ -9,7 +9,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?php 
-    $title = isset($pageTitle) ? $pageTitle : 'Digitalni marketing | Google oglasi | SEO optimizacija | Izrada web stranica';
+    header('Content-Type: text/html; charset=utf-8');
+    $title = isset($pageTitle) ? $pageTitle : 'Digitalni marketing | Google oglasi | SEO optimizacija | Digitalni Dom';
     echo "<title>" . $title . "</title>";
 
     // Build the full canonical URL dynamically

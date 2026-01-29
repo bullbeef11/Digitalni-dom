@@ -1,5 +1,5 @@
 <?php
-  $pageTitle = 'Google oglasi'; 
+  $pageTitle = 'Google oglasi | Digitalni Dom'; 
   include ("../header.php")
 ?>
 
@@ -11,7 +11,7 @@
       <div class="container">
         <div class="row">
           <div class="col-12">
-            <h1 class="h1-title mb-3">Google oglasi</h2>
+            <h1 class="h1-title mb-3">Google oglasi - SEO optimizacija savjeti i vodiči</h2>
             <p class="p-lg">Google oglašavanje (Google Ads) jedan je od najučinkovitijih kanala digitalnog marketinga za privlačenje novih klijenata i povećanje prodaje. Na ovom blogu donosimo najnovije savjete, vodiče i primjere kako poboljšati rezultate vaših Google Ads kampanja u Hrvatskoj. </p>
             <h4 class="my-4">Najvažniji članci o Google oglašavanju</h2>
           </div>
@@ -25,12 +25,12 @@
               </h5>
 
               <p class="p-sm blog-category-description">
-              Google oglasi neprestano evoluiraju kako bi zadovoljili potrebe oglašivača i potrošača. Otkrijte ključne trendove koji će oblikovati digitalno oglašavanje u 2025. godini i kako ih možete iskoristiti za rast vašeg poslovanja.
+              Google oglasi neprestano evoluiraju kako bi zadovoljili potrebe oglašivača i potrošača. Otkrijte ključne trendove koji će oblikovati digitalno oglašavanje i kako ih možete iskoristiti za rast vašeg poslovanja.
               </p>
             </a>
           </div>
           <div class="col-6 col-md-3">
-            <a href="/blog/google-oglasi/lakše-upravljanje-budzetom" class="blog-category-wrapper">
+            <a href="/blog/google-oglasi/lakše-upravljanje-budžetom" class="blog-category-wrapper">
               <img src="../images/blog/google-oglasi/blog-google-oglasi-budzet.jpg" alt="Lakše upravljanje budžetom" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
                 Lakše upravljanje budžetom
@@ -61,12 +61,12 @@
               </h5>
 
               <p class="p-sm blog-category-description">
-              Google oglasi u 2025. godini nude niz novih značajki koje podržavaju strategije e-trgovine. Otkrijte kako ove inovacije mogu poboljšati vaše online prodaje i povećati vidljivost vaše tvrtke.
+              Google oglasi nude niz novih značajki koje podržavaju strategije e-trgovine. Otkrijte kako ove inovacije mogu poboljšati vaše online prodaje i povećati vidljivost vaše tvrtke.
               </p>
             </a>
           </div>
           <div class="col-6 col-md-3">
-            <a href="/blog/google-oglasi/poboljsajte-marketinske-rezultate" class="blog-category-wrapper">
+            <a href="/blog/google-oglasi/poboljšajte-marketinške-rezultate" class="blog-category-wrapper">
               <img src="../images/blog/google-oglasi/blog-google-oglasi-rezultati.jpg" alt="Poboljšajte marketinške rezultate" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
                 Poboljšajte marketinške rezultate
@@ -78,7 +78,7 @@
             </a>
           </div>
           <div class="col-6 col-md-3">
-            <a href="/blog/google-oglasi/povecajte-prodaju-google-oglasima" class="blog-category-wrapper">
+            <a href="/blog/google-oglasi/povećajte-prodaju-google-oglasima" class="blog-category-wrapper">
               <img src="../images/blog/google-oglasi/blog-google-oglasi-prodaja.jpg" alt="Povećajte prodaju google oglasima" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
                 Povećajte prodaju google oglasima
@@ -90,19 +90,19 @@
             </a>
           </div>
           <div class="col-6 col-md-3">
-            <a href="/blog/google-oglasi/redefiniranje-korisnickog-iskustva" class="blog-category-wrapper">
+            <a href="/blog/google-oglasi/redefiniranje-korisničkog-iskustva" class="blog-category-wrapper">
               <img src="../images/blog/google-oglasi/blog-google-oglasi-korisnicko-iskustvo.jpg" alt="Redefiniranje korisničkog iskustva" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
                 Redefiniranje korisničkog iskustva
               </h5>
 
               <p class="p-sm blog-category-description">
-              Google oglasi u 2025. godini donose inovacije koje stavljaju korisničko iskustvo u prvi plan. Saznajte kako nove značajke poput vizualnog pretraživanja, napredne automatizacije i personalizacije mijenjaju način na koji brendovi komuniciraju s publikom.
+              Google oglasi donose inovacije koje stavljaju korisničko iskustvo u prvi plan. Saznajte kako nove značajke poput vizualnog pretraživanja, napredne automatizacije i personalizacije mijenjaju način na koji brendovi komuniciraju s publikom.
               </p>
             </a>
           </div>
           <div class="col-6 col-md-3">
-            <a href="/blog/google-oglasi/povecajte-vidljivost-vase-tvrtke" class="blog-category-wrapper">
+            <a href="/blog/google-oglasi/povećajte-vidljivost-vaše-tvrtke" class="blog-category-wrapper">
               <img src="../images/blog/google-oglasi/blog-google-oglasi-vidljivost.jpg  " alt="Povećajte vidljivost Vaše tvrke" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
                 Povećajte vidljivost Vaše tvrke

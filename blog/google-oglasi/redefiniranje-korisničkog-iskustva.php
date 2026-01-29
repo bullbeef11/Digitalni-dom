@@ -1,6 +1,15 @@
 <?php
-  $pageTitle = 'Google oglasi'; 
-  include ("../../header.php")
+  $brand='Digitalni Dom';
+  $uriParts=explode('/',trim($_SERVER['REQUEST_URI'],'/'));
+  $pageTitle='Digitalni marketing | Google oglasi | SEO optimizacija | Digitalni Dom';
+  if(isset($uriParts[0],$uriParts[1],$uriParts[2]) && $uriParts[0]==='blog' && $uriParts[1]==='google-oglasi'){
+      $postSlug = urldecode($uriParts[2]);
+      setlocale(LC_CTYPE, 'hr_HR.UTF-8'); // Croatian locale
+      $postTitle = mb_convert_case(str_replace(['-', '_'], ' ', $postSlug), MB_CASE_TITLE, "UTF-8");
+      $category='Google oglasi';
+      $pageTitle=$postTitle.' | '.$category.' | '.$brand;
+  }
+  include("../../header.php");
 ?>
 
 <section
@@ -11,9 +20,9 @@
 <div class="container">
   <div class="row justify-content-center text-center mb-4 mb-md-5 wow animate__animated animate__fadeInUp wow animate__animated animate__fadeInUp">
     <div class="col-12 text-center mb-4 mb-lg-5">
-      <h1 class="mb-4">Redefiniranje korisničkog iskustva</h1>
+      <h1 class="mb-4">Poboljšajte korisničko iskustvo kroz Google Ads</h1>
       
-      <p class="p-lg">Google oglasi u 2025. godini donose inovacije koje stavljaju korisničko iskustvo u prvi plan. Saznajte kako nove značajke poput vizualnog pretraživanja, napredne automatizacije i personalizacije mijenjaju način na koji brendovi komuniciraju s publikom.</p>
+      <p class="p-lg">Google oglasi donose inovacije koje stavljaju korisničko iskustvo u prvi plan. Saznajte kako nove značajke poput vizualnog pretraživanja, napredne automatizacije i personalizacije mijenjaju način na koji brendovi komuniciraju s publikom.</p>
     </div>
   </div>
   <div class="row justify-content-center text-center mb-4 mb-md-5 pb-md-5 wow animate__animated animate__fadeInUp">

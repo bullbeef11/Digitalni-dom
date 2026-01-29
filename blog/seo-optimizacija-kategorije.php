@@ -1,5 +1,5 @@
 <?php
-  $pageTitle = 'SEO optimizacija'; 
+  $pageTitle = 'SEO optimizacija | Digitalni Dom'; 
   include ("../header.php")
 ?>
 
@@ -11,13 +11,13 @@
       <div class="container">
         <div class="row">
           <div class="col-12">
-            <h1 class="h1-title mb-3">SEO optimizacija</h2>
+            <h1 class="h1-title mb-3">SEO optimizacija - savjeti i vodiči</h2>
             <p class="p-lg mb-4 mb-md-5">Pročitajte više o potencijalu proširenja Vašeg poslovanja putem SEO optimizacije</p>
           </div>
         </div>
         <div class="row gx-4 gx-md-5 gy-4 gy-md-5">
           <div class="col-6 col-md-3">
-            <a href="/blog/seo-optimizacija/kljucni-dio-digitalnog-marketinga" class="blog-category-wrapper">
+            <a href="/blog/seo-optimizacija/ključni-dio-digitalnog-marketinga" class="blog-category-wrapper">
               <img src="../images/blog/seo-optimizacija/kljucni-dio-web-marketinga.jpg" alt="Ključni dio digitalnog marketinga" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
               Ključni dio digitalnog marketinga
@@ -29,7 +29,7 @@
             </a>
           </div>
           <div class="col-6 col-md-3">
-            <a href="/blog/seo-optimizacija/olaksajte-izgradnju-brenda" class="blog-category-wrapper">
+            <a href="/blog/seo-optimizacija/olakšajte-izgradnju-brenda" class="blog-category-wrapper">
               <img src="../images/blog/seo-optimizacija/olaksajte-izgradnju-brenda.jpg" alt="Olakšajte izgradnju brenda" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
               Olakšajte izgradnju brenda
@@ -65,7 +65,7 @@
             </a>
           </div>
           <div class="col-6 col-md-3">
-            <a href="/blog/seo-optimizacija/poboljsajte-korisnicko-iskustvo" class="blog-category-wrapper">
+            <a href="/blog/seo-optimizacija/poboljšajte-korisničko-iskustvo" class="blog-category-wrapper">
               <img src="../images/blog/seo-optimizacija/poboljsajte-korisnicko-iskustvo.jpg" alt="Poboljšajte korisničko iskustvo" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
               Poboljšajte korisničko iskustvo
@@ -77,7 +77,7 @@
             </a>
           </div>
           <div class="col-6 col-md-3">
-            <a href="/blog/seo-optimizacija/podrska-lokalnim-poslovima" class="blog-category-wrapper">
+            <a href="/blog/seo-optimizacija/podrška-lokalnim-poslovima" class="blog-category-wrapper">
               <img src="../images/blog/seo-optimizacija/podrska-lokalnim-poslovima.jpg" alt="Podrška lokalnim poslovima" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
               Podrška lokalnim poslovima
@@ -89,7 +89,7 @@
             </a>
           </div>
           <div class="col-6 col-md-3">
-            <a href="/blog/seo-optimizacija/povecajte-online-vidljivost" class="blog-category-wrapper">
+            <a href="/blog/seo-optimizacija/povećajte-online-vidljivost" class="blog-category-wrapper">
               <img src="../images/blog/seo-optimizacija/povecajte-online-vidljivost.jpg" alt="Povećajte online vidljivost" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
               Povećajte online vidljivost
@@ -101,7 +101,7 @@
             </a>
           </div>
           <div class="col-6 col-md-3">
-            <a href="/blog/seo-optimizacija/kljuc-za-uspjeh-web-stranice" class="blog-category-wrapper">
+            <a href="/blog/seo-optimizacija/ključ-za-uspjeh-web-stranice" class="blog-category-wrapper">
               <img src="../images/blog/seo-optimizacija/kljuc-za-uspjeh-web-stranice.jpg" alt="Ključ za uspjeh web stranice" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
               Ključ za uspjeh web stranice

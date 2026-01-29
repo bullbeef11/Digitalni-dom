@@ -1,4 +1,5 @@
 <?php
+  $pageTitle = 'Opći uvjeti poslovanja | Digitalni Dom'; 
   include ("header.php")
 ?>
 

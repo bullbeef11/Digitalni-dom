@@ -1,6 +1,15 @@
 <?php
-  $pageTitle = 'Web stranice'; 
-  include ("../../header.php")
+  $brand='Digitalni Dom';
+$uriParts=explode('/',trim($_SERVER['REQUEST_URI'],'/'));
+$pageTitle='Digitalni marketing | Google oglasi | SEO optimizacija | Digitalni Dom';
+if(isset($uriParts[0],$uriParts[1],$uriParts[2]) && $uriParts[0]==='blog' && $uriParts[1]==='web-stranice'){
+    $postSlug=urldecode($uriParts[2]);
+    setlocale(LC_CTYPE,'hr_HR.UTF-8');
+    $postTitle=mb_convert_case(str_replace(['-','_'],' ',$postSlug),MB_CASE_TITLE,"UTF-8");
+    $category='Web stranice';
+    $pageTitle=$postTitle.' | '.$category.' | '.$brand;
+}
+include("../../header.php");
 ?>
 
 <section
@@ -11,7 +20,7 @@
 <div class="container">
   <div class="row justify-content-center text-center mb-4 mb-md-5">
     <div class="col-12 text-center mb-4 mb-lg-5">
-      <h1 class="mb-4">Kako web stranice podržavaju poslovnu komunikaciju</h1>
+      <h1 class="mb-4">Kako web stranica olakšava internu i vanjsku poslovnu komunikaciju</h1>
       
       <p class="p-lg">Web stranice su ključni dio poslovne komunikacije jer omogućavaju efikasnu razmjenu informacija između tvrtke i njenih partnera ili klijenata. Otkrijte kako vaše tvrtke mogu imati koristi od kvalitetne web stranice u poslovnoj komunikaciji.</p>
     </div>

@@ -1,6 +1,15 @@
 <?php
-  $pageTitle = 'Google oglasi'; 
-  include ("../../header.php")
+  $brand='Digitalni Dom';
+  $uriParts=explode('/',trim($_SERVER['REQUEST_URI'],'/'));
+  $pageTitle='Digitalni marketing | Google oglasi | SEO optimizacija | Digitalni Dom';
+  if(isset($uriParts[0],$uriParts[1],$uriParts[2]) && $uriParts[0]==='blog' && $uriParts[1]==='google-oglasi'){
+      $postSlug = urldecode($uriParts[2]);
+      setlocale(LC_CTYPE, 'hr_HR.UTF-8'); // Croatian locale
+      $postTitle = mb_convert_case(str_replace(['-', '_'], ' ', $postSlug), MB_CASE_TITLE, "UTF-8");
+      $category='Google oglasi';
+      $pageTitle=$postTitle.' | '.$category.' | '.$brand;
+  }
+  include("../../header.php");
 ?>
 
 <section
@@ -11,9 +20,9 @@
 <div class="container">
   <div class="row justify-content-center text-center mb-4 mb-md-5 wow animate__animated animate__fadeInUp wow animate__animated animate__fadeInUp">
     <div class="col-12 text-center mb-4 mb-lg-5">
-      <h1 class="mb-4">Najnoviji trendovi u google oglasima</h1>
+      <h1 class="mb-4">Najnoviji trendovi i Google Ads strategije za bolje rezultate</h1>
       
-      <p class="p-lg">Google oglasi neprestano evoluiraju kako bi zadovoljili potrebe oglašivača i potrošača. Otkrijte ključne trendove koji će oblikovati digitalno oglašavanje u 2025. godini i kako ih možete iskoristiti za rast vašeg poslovanja.</p>
+      <p class="p-lg">Google oglasi neprestano evoluiraju kako bi zadovoljili potrebe oglašivača i potrošača. Otkrijte ključne trendove koji će oblikovati digitalno oglašavanje u budućnosti i kako ih možete iskoristiti za rast vašeg poslovanja.</p>
     </div>
   </div>
   <div class="row justify-content-center text-center mb-4 mb-md-5 pb-md-5 wow animate__animated animate__fadeInUp wow animate__animated animate__fadeInUp">
@@ -34,7 +43,7 @@
     <div class="col-md-8">
       <h4 class="mb-3">Personalizacija oglasa</h4>
 
-      <p>Jedan od glavnih trendova u Google oglasima za 2025. godinu je personalizacija sadržaja. Oglašivači sada mogu koristiti podatke o korisnicima kako bi prilagodili oglase specifičnim interesima i potrebama publike.</p>
+      <p>Jedan od glavnih trendova u Google oglasima je personalizacija sadržaja. Oglašivači sada mogu koristiti podatke o korisnicima kako bi prilagodili oglase specifičnim interesima i potrebama publike.</p>
 
       <p>Na primjer, dinamički oglasi omogućuju prikazivanje prilagođenih proizvoda ili usluga na temelju prethodnih interakcija korisnika s vašom web stranicom.</p>
 

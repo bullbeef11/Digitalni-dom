@@ -1,5 +1,5 @@
 <?php
-  $pageTitle = 'Društvene mreže'; 
+  $pageTitle = 'Društvene mreže | Digitalni Dom'; 
   include ("../header.php")
 ?>
 
@@ -11,7 +11,7 @@
       <div class="container">
         <div class="row">
           <div class="col-12">
-            <h1 class="h1-title mb-3">Društvene mreže</h2>
+            <h1 class="h1-title mb-3">Društvene mreže - savjeti i vodiči</h2>
             <p class="p-lg mb-4 mb-md-5">Pročitajte više o potencijalu proširenja Vašeg poslovanja putem kvalitetne društvenih mreža</p>
           </div>
         </div>
@@ -41,7 +41,7 @@
             </a>
           </div>
           <div class="col-6 col-md-3">
-            <a href="/blog/drustvene-mreze/kljucni-dio-e-trgovine" class="blog-category-wrapper">
+            <a href="/blog/drustvene-mreze/ključni-dio-e-trgovine" class="blog-category-wrapper">
               <img src="../images/blog/drustvene-mreze/kljucni-dio-e-trgovine.jpg" alt="Kako web stranice podržavaju e-trgovinu?" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
               Kako web stranice podržavaju e-trgovinu?
@@ -53,7 +53,7 @@
             </a>
           </div>
           <div class="col-6 col-md-3">
-            <a href="/blog/drustvene-mreze/podrska-digitalnom-marketingu" class="blog-category-wrapper">
+            <a href="/blog/drustvene-mreze/podrška-digitalnom-marketingu" class="blog-category-wrapper">
               <img src="../images/blog/drustvene-mreze/podrska-digitalnom-marketingu.jpg" alt="Podrška digitalnom marketingu" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
               Podrška digitalnom marketingu
@@ -77,7 +77,7 @@
             </a>
           </div>
           <div class="col-6 col-md-3">
-            <a href="/blog/drustvene-mreze/podrska-poslovnoj-komunikaciji" class="blog-category-wrapper">
+            <a href="/blog/drustvene-mreze/podrška-poslovnoj-komunikaciji" class="blog-category-wrapper">
               <img src="../images/blog/drustvene-mreze/podrska-poslovnoj-komunikaciji.jpg" alt="Podrška poslovnoj komunikaciji" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
               Podrška poslovnoj komunikaciji
@@ -89,7 +89,7 @@
             </a>
           </div>
           <div class="col-6 col-md-3">
-            <a href="/blog/drustvene-mreze/povecajte-online-prisutnost" class="blog-category-wrapper">
+            <a href="/blog/drustvene-mreze/povećajte-online-prisutnost" class="blog-category-wrapper">
               <img src="../images/blog/drustvene-mreze/povecajte-online-prisutnost.jpg" alt="Povećajte online prisutnost" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
               Povećajte online prisutnost
@@ -101,7 +101,7 @@
             </a>
           </div>
           <div class="col-6 col-md-3">
-            <a href="/blog/drustvene-mreze/zasto-su-web-stranice-kljucne" class="blog-category-wrapper">
+            <a href="/blog/drustvene-mreze/zasto-su-web-stranice-ključne" class="blog-category-wrapper">
               <img src="../images/blog/drustvene-mreze/zasto-su-web-stranice-kljucne.jpg" alt="Zašto su web stranice ključne za uspjeh?" class="img-fluid rounded-4">
               <h5 class="mt-3 mb-2">
               Zašto su web stranice ključne za uspjeh?

@@ -1,4 +1,5 @@
 <?php
+  $pageTitle = 'Izrada Google oglasa | Digitalni Dom'; 
   include ("header.php")
 ?>
 

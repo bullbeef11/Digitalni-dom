@@ -1,4 +1,5 @@
 <?php
+  $pageTitle = 'Oglašavanje na društvenim mrežama | Digitalni Dom'; 
   include ("header.php")
 ?>
 
